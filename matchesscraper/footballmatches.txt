@@ -1,0 +1,172 @@
+soccer||ALGERIA: ||Algeria Cup||21/01/2019 14:00||g_1_vwQRgR15||CR Belouizdad||Mohammadia SA 
+soccer||ALGERIA: ||Algeria Cup||21/01/2019 15:00||g_1_z5Jzh5WH||Annaba||Bordj Bou Arreridj 
+soccer||ALGERIA: ||Algeria Cup||21/01/2019 16:00||g_1_WCMJemXh||Bejaia||Bouguirat 
+soccer||ASIA: ||Asian Cup - Play Offs||21/01/2019 11:00||g_1_ShV6GtQD||Japan||Saudi Arabia 
+soccer||ASIA: ||Asian Cup - Play Offs||21/01/2019 14:00||g_1_vBF7EawT||Australia||Uzbekistan 
+soccer||ASIA: ||Asian Cup - Play Offs||21/01/2019 17:00||g_1_pruaNK2H||United Arab Emirates||Kyrgyzstan 
+soccer||BAHRAIN: ||Bahrain Cup - Play Offs||21/01/2019 14:00||g_1_EJrbGpC9||Al-Ahli Manama||East Riffa 
+soccer||BRAZIL: ||Campeonato Carioca - Relegation Group||21/01/2019 21:00||g_1_WOnKKOt2||Goytacaz||Nova Iguacu 
+soccer||BRAZIL: ||Campeonato Paulista||21/01/2019 20:15||g_1_boXJBOP9||Ituano||Novorizontino 
+soccer||BRAZIL: ||Campeonato Potiguar - First stage||21/01/2019 18:00||g_1_vR1KdaE4||Santa Cruz de Natal||Palmeira da Una 
+soccer||CYPRUS: ||First Division||21/01/2019 17:00||g_1_Kj8SRbIu||Doxa||AEK Larnaca 
+soccer||CZECH REPUBLIC: ||Tipsport liga - Play Offs||21/01/2019 10:00||g_1_dh5yuXLD||Mas Taborsko||Mlada Boleslav 
+soccer||CZECH REPUBLIC: ||Tipsport liga - Play Offs||21/01/2019 12:30||g_1_hKveWvID||Brno||Slovan Bratislava 
+soccer||ENGLAND: ||Championship||21/01/2019 20:00||g_1_rowKlksL||Bolton||West Brom 
+soccer||ENGLAND: ||Isthmian League Premier Division||21/01/2019 19:45||g_1_UgeIFErT||Carshalton||AFC Hornchurch 
+soccer||ENGLAND: ||Professional Development League||21/01/2019 13:00||g_1_CYMKZ3RR||Colchester U23||Cardiff U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 14:00||g_1_WMk1KJHa||Peterborough U23||Stoke City U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_bkVuWGGB||Blackburn U23||Sheffield Utd U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_Qqk5JwX5||Charlton U23||Sunderland U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_hS0o41Sf||Derby U23||Plymouth U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_xtUqVzWH||Doncaster U23||Everton U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_hhpxwPTe||Exeter U23||Nottingham U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_pn9Fjrbe||Hull U23||Wolves U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_x2DKE9nU||Leeds U23||Southampton U23 
+soccer||ENGLAND: ||Premier League Cup||21/01/2019 19:00||g_1_Wrqtxqq2||Norwich U23||Leicester U23 
+soccer||FRANCE: ||Ligue 2||21/01/2019 19:45||g_1_beS0f23L||Paris FC||Brest 
+soccer||FRANCE: ||Ligue 2||21/01/2019 20:00||g_1_bar2Z0Re||Le Havre||Red Star 
+soccer||GREECE: ||Super League||21/01/2019 17:00||g_1_WrqfXFxH||Lamia||Panathinaikos 
+soccer||ISRAEL: ||Ligat ha'Al||21/01/2019 17:00||g_1_CGFpy1rf||Shmona||Hapoel Hadera 
+soccer||ISRAEL: ||Ligat ha'Al||21/01/2019 18:00||g_1_GlMywNDs||Moadon Sport Ashdod||Hapoel Tel Aviv 
+soccer||ISRAEL: ||Ligat ha'Al||21/01/2019 19:00||g_1_YPGtxsTm||Maccabi Tel Aviv||Beitar Jerusalem 
+soccer||ISRAEL: ||Leumit League||21/01/2019 17:00||g_1_vF5oCrob||Beitar Tel Aviv||H. Nazareth 
+soccer||ISRAEL: ||Leumit League||21/01/2019 17:00||g_1_nu9gAMFA||H. Akko||Ramat Hasharon 
+soccer||ITALY: ||Serie A||21/01/2019 14:00||g_1_6N8LhfGJ||Genoa||AC Milan 
+soccer||ITALY: ||Serie A||21/01/2019 19:30||g_1_dhRUVW86||Juventus||Chievo 
+soccer||ITALY: ||Serie B||21/01/2019 20:00||g_1_fegeq4Oj||Spezia||Venezia 
+soccer||ITALY: ||Serie C - Group A||21/01/2019 19:45||g_1_2DxKTkI9||Albissola||Novara 
+soccer||ITALY: ||Primavera 1||21/01/2019 12:00||g_1_xQ9ZoSu4||Genoa U19||Sassuolo U19 
+soccer||NETHERLANDS: ||Eerste Divisie||21/01/2019 19:00||g_1_pMupAxX6||Jong PSV||Maastricht 
+soccer||NETHERLANDS: ||Reserve League - Winners stage||21/01/2019 13:00||g_1_E9gznHcq||Jong Feyenoord||Jong FC Twente 
+soccer||SOUTH AFRICA: ||First Division||21/01/2019 13:30||g_1_GW09k3QJ||Cape Umoya United||Maccabi 
+soccer||SOUTH AMERICA: ||South American Championship U20||21/01/2019 20:10||g_1_fV9ZwVz2||Colombia U20||Bolivia U20 
+soccer||SOUTH AMERICA: ||South American Championship U20||21/01/2019 22:30||g_1_re6VvBLe||Brazil U20||Venezuela U20 
+soccer||SPAIN: ||LaLiga||21/01/2019 20:00||g_1_EoZpSgkJ||Eibar||Espanyol 
+soccer||SPAIN: ||LaLiga2||21/01/2019 20:00||g_1_COs7EXLl||Granada CF||Elche 
+soccer||TURKEY: ||Super Lig||21/01/2019 17:00||g_1_Ay3payWa||Bursaspor||Fenerbahce 
+soccer||TURKEY: ||Super Lig||21/01/2019 17:00||g_1_Kh527aOJ||Kasimpasa||Rizespor 
+soccer||TURKEY: ||1. Lig||21/01/2019 16:00||g_1_GpQXlFl7||Elazigspor||Adanaspor AS 
+soccer||WORLD: ||Club Friendly||21/01/2019 09:00||g_1_OUZRDIjl||Viitorul Constanta (Rou)||Vejle (Den) 
+soccer||WORLD: ||Club Friendly||21/01/2019 10:00||g_1_ppQvJHUj||Lok. Zagreb (Cro)||Titograd (Mne) 
+soccer||WORLD: ||Club Friendly||21/01/2019 11:00||g_1_ELqFequB||Brondby (Den)||Lok. Tashkent (Uzb) 
+soccer||WORLD: ||Club Friendly||21/01/2019 11:00||g_1_Y9ptMtRt||FC Copenhagen (Den)||Roskilde (Den) 
+soccer||WORLD: ||Club Friendly||21/01/2019 11:00||g_1_UJf4kt3R||Orenburg (Rus)||FC Botosani (Rou) 
+soccer||WORLD: ||Club Friendly||21/01/2019 12:00||g_1_rVpMkVNI||Mladost (Srb)||Kaposvar (Hun) 
+soccer||WORLD: ||Club Friendly||21/01/2019 12:00||g_1_WStWp0Br||Ostersunds (Swe)||Henan Jianye (Chn) 
+soccer||WORLD: ||Club Friendly||21/01/2019 12:45||g_1_0nTVvE90||Melaka United (Mys)||Sarawak FA (Mys) 
+soccer||WORLD: ||Club Friendly||21/01/2019 13:30||g_1_6gRzKcFp||Slaven Belupo (Cro)||Znojmo (Cze) 
+soccer||WORLD: ||Club Friendly||21/01/2019 14:00||g_1_rRdFBfj3||D. Zagreb (Cro)||Poli Iasi (Rou) 
+soccer||WORLD: ||Club Friendly||21/01/2019 14:30||g_1_fFo0QaxH||Tianjin Teda (Chn)||Arminia Bielefeld (Ger) 
+soccer||WORLD: ||Club Friendly||21/01/2019 15:00||g_1_l4yypKQl||CSKA Moscow (Rus)||Ventspils (Lat) 
+soccer||WORLD: ||Club Friendly||21/01/2019 15:00||g_1_Aa1LgMUH||MOL Vidi (Hun)||Sparta Prague (Cze) 
+soccer||WORLD: ||Club Friendly||21/01/2019 15:00||g_1_lEv9Ow7T||Suduva (Ltu)||Metta/LU (Lat) 
+soccer||WORLD: ||Club Friendly||21/01/2019 16:00||g_1_n3iDiig6||Duisburg (Ger)||Servette (Sui) 
+soccer||WORLD: ||Club Friendly||21/01/2019 17:00||g_1_2mRCFqhI||Spartak Moscow (Rus)||FK Rostov (Rus) 
+soccer||WORLD: ||Club Friendly||21/01/2019 17:30||g_1_xvy5PJiN||Wiener Linien (Aut)||Stadlau (Aut) 
+soccer||WORLD: ||Friendly International Women||21/01/2019 13:00||g_1_judcyxQI||Denmark W||Finland W 
+soccer||WORLD: ||Friendly International Women||21/01/2019 15:00||g_1_t6l5gDOg||Scotland W||Iceland W 
+soccer||WORLD: ||Friendly International Women||21/01/2019 18:00||g_1_hth9hXw0||Catalonia Selection W||Chile W 
+soccer||ALBANIA: ||Albanian Cup||22/01/2019 13:00||g_1_Qstw7qqb||Beselidhja Lezha||Skenderbeu 
+soccer||ALBANIA: ||Albanian Cup||22/01/2019 13:00||g_1_bevo5NDA||Kastrioti||Partizani 
+soccer||ALGERIA: ||Ligue 1||22/01/2019 16:45||g_1_rLHTrkAl||Oran||Saoura 
+soccer||ALGERIA: ||Algeria Cup||22/01/2019 13:30||g_1_0nRNf7na||Paradou||Harrach 
+soccer||ALGERIA: ||Algeria Cup||22/01/2019 16:00||g_1_nw0sCegM||ES Setif||USM Alger 
+soccer||ASIA: ||Asian Cup - Play Offs||22/01/2019 13:00||g_1_6qUAF0uK||South Korea||Bahrain 
+soccer||ASIA: ||Asian Cup - Play Offs||22/01/2019 16:00||g_1_l8JFEKfQ||Qatar||Iraq 
+soccer||AUSTRALIA: ||A-League||22/01/2019 08:50||g_1_S8Nmpmsl||Melbourne City||WS Wanderers 
+soccer||BRAZIL: ||Campeonato Gaucho||22/01/2019 22:30||g_1_2PrgaDi0||Avenida||Brasil de Pelotas 
+soccer||BRAZIL: ||Copa Sao Paulo de juniores - Play Offs||22/01/2019 21:15||g_1_KKaOJ40B||Sao Paulo U20||Guarani U20 
+soccer||BRAZIL: ||Copa Sao Paulo de juniores - Play Offs||22/01/2019 23:30||g_1_pKzH2t00||Corinthians U20||Vasco U20 
+soccer||ENGLAND: ||League One||22/01/2019 19:45||g_1_2uZML9hK||AFC Wimbledon||Fleetwood 
+soccer||ENGLAND: ||League One||22/01/2019 19:45||g_1_vRq1ZSMJ||Plymouth||Walsall 
+soccer||ENGLAND: ||League Two||22/01/2019 19:45||g_1_hOtXle90||Forest Green||Grimsby 
+soccer||ENGLAND: ||League Two||22/01/2019 19:45||g_1_6DFp94wI||Yeovil||Lincoln 
+soccer||ENGLAND: ||National League North||22/01/2019 19:45||g_1_EXesKzya||Altrincham||Blyth 
+soccer||ENGLAND: ||National League North||22/01/2019 19:45||g_1_tl1GLYgD||Guiseley||Hereford 
+soccer||ENGLAND: ||National League North||22/01/2019 19:45||g_1_CSN7zdLu||Leamington||Stockport 
+soccer||ENGLAND: ||Southern League Central Division||22/01/2019 19:45||g_1_0vq3Cj1j||Alvechurch||Stratford 
+soccer||ENGLAND: ||Southern League Central Division||22/01/2019 19:45||g_1_nDU2WQAC||Barwell||St. Ives 
+soccer||ENGLAND: ||Southern League Central Division||22/01/2019 19:45||g_1_Iy7SySoa||Kettering||Coalville 
+soccer||ENGLAND: ||Southern League South Division||22/01/2019 19:45||g_1_pUF29bJp||Chesham||Basingstoke 
+soccer||ENGLAND: ||Southern League South Division||22/01/2019 19:45||g_1_GWARhFk3||Hendon||Weymouth 
+soccer||ENGLAND: ||Southern League South Division||22/01/2019 19:45||g_1_Y75WiZ49||Kings Langley||Salisbury 
+soccer||ENGLAND: ||Southern League South Division||22/01/2019 19:45||g_1_AXhrQPFa||Poole||Harrow 
+soccer||ENGLAND: ||Isthmian League Premier Division||22/01/2019 19:45||g_1_GWMqVvQP||Brightlingsea||Worthing 
+soccer||ENGLAND: ||Isthmian League Premier Division||22/01/2019 19:45||g_1_zyYpBYjp||Dorking||Enfield Town 
+soccer||ENGLAND: ||Isthmian League Premier Division||22/01/2019 19:45||g_1_l4BiUDcM||Wingate & Finchley||Tonbridge 
+soccer||ENGLAND: ||Professional Development League||22/01/2019 13:00||g_1_nVwSjHJG||Millwall U23||Crystal Palace U23 
+soccer||ENGLAND: ||EFL Trophy - Play Offs||22/01/2019 19:00||g_1_rmMRod3D||Portsmouth||Peterborough 
+soccer||ENGLAND: ||EFL Trophy - Play Offs||22/01/2019 19:45||g_1_AZNJmIY0||Bristol Rovers||Port Vale 
+soccer||ENGLAND: ||EFL Trophy - Play Offs||22/01/2019 19:45||g_1_4dNNnxl7||Bury||Oxford Utd 
+soccer||ENGLAND: ||EFL Trophy - Play Offs||22/01/2019 19:45||g_1_K45AAutE||Sunderland||Manchester City U21 
+soccer||ENGLAND: ||Premier League Cup||22/01/2019 14:00||g_1_b5JoATfo||Notts Co U23||Newcastle Utd U23 
+soccer||FRANCE: ||Coupe de France||22/01/2019 17:30||g_1_UyIVPei8||Andrezieux||Lyon Duchere 
+soccer||FRANCE: ||Coupe de France||22/01/2019 17:30||g_1_MZzu3Yqe||Nancy||Guingamp 
+soccer||FRANCE: ||Coupe de France||22/01/2019 17:30||g_1_rqxy4EUl||Toulouse||Reims 
+soccer||FRANCE: ||Coupe de France||22/01/2019 17:30||g_1_zw1EHXbl||Villefranche||Les Herbiers 
+soccer||FRANCE: ||Coupe de France||22/01/2019 20:00||g_1_fLKbN2V9||Monaco||Metz 
+soccer||FRANCE: ||Coupe de France||22/01/2019 20:00||g_1_tIGfOrG3||Sete||Lille 
+soccer||GREECE: ||Greek Cup - Play Offs||22/01/2019 13:00||g_1_zgHVe939||Panionios||Giannina 
+soccer||GREECE: ||Greek Cup - Play Offs||22/01/2019 17:30||g_1_KQWWz8Rq||PAOK||Panachaiki 
+soccer||ICELAND: ||Fotbolti.net Cup||22/01/2019 20:10||g_1_KQ22C6FG||Stjarnan||Keflavik 
+soccer||ISRAEL: ||State Cup||22/01/2019 18:30||g_1_OSn7urz8||Sakhnin||Maccabi Haifa 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 17:30||g_1_CMzMqXA7||AlbinoLeffe||Gubbio 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 17:30||g_1_YVyIpDe1||Giana Erminio||Fermana 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 17:30||g_1_SUI87z3E||Rimini||L.R. Vicenza 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 17:30||g_1_YTptkSnm||Virtus Verona||Pordenone 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_fqZlm6Ha||Fano||Sudtirol 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_lKmhnQW5||FeralpiSalo||Ternana 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_SAndopnC||Ravenna||Triestina 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_KQtxj8Xt||Renate||Monza 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_lvK48Gm8||Teramo||Imolese 
+soccer||ITALY: ||Serie C - Group B||22/01/2019 19:30||g_1_Ghzoln2g||Vis Pesaro||Sambenedettese 
+soccer||MEXICO: ||Liga MX Women - Clausura||22/01/2019 01:00||g_1_p6qL6QHR||Pachuca W||Club Tijuana W 
+soccer||MEXICO: ||Liga MX Women - Clausura||22/01/2019 02:00||g_1_tjQQSPiD||U.A.N.L.- Tigres W||Atlas W 
+soccer||MEXICO: ||Liga MX Women - Clausura||22/01/2019 03:00||g_1_re49i9UD||Guadalajara Chivas W||Santos Laguna W 
+soccer||NETHERLANDS: ||KNVB Beker||22/01/2019 19:45||g_1_lrzRpA3Q||AZ Alkmaar||Vitesse 
+soccer||NORTHERN IRELAND: ||NIFL Premiership||22/01/2019 19:45||g_1_KEEuA8FC||Newry City||Linfield 
+soccer||PARAGUAY: ||Primera Division - Apertura||22/01/2019 21:00||g_1_8WKEsVTo||San Lorenzo||River Plate 
+soccer||PARAGUAY: ||Primera Division - Apertura||22/01/2019 23:15||g_1_C8T7O7TN||Sol de America||Libertad Asuncion 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 11:00||g_1_GtYr9bEb||Braga U23||Aves U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 11:00||g_1_xjZvAvah||Setubal U23||Maritimo U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 15:00||g_1_rgPa5GDN||Academica U23||Rio Ave U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 15:00||g_1_42Qe6dbH||Guimaraes U23||Portimonense U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 15:00||g_1_b5Nm8IT4||Sporting U23||Belenenses U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 18:00||g_1_AuRi7xqB||Benfica U23||Estoril U23 
+soccer||PORTUGAL: ||Liga Revelacao U23||22/01/2019 18:00||g_1_OWxS6Ty1||CD Cova da Piedade U23||Feirense U23 
+soccer||PORTUGAL: ||League Cup - Play Offs||22/01/2019 19:45||g_1_IcUe8pej||Benfica||FC Porto 
+soccer||SCOTLAND: ||FA Cup||22/01/2019 19:45||g_1_0tYGyeBj||Queen of South||Dundee FC 
+soccer||SCOTLAND: ||FA Cup||22/01/2019 19:45||g_1_EqMb0vli||Stenhousemuir||Aberdeen 
+soccer||SOUTH AFRICA: ||Premier League||22/01/2019 17:30||g_1_SMQqKpeU||Highlands||Mamelodi Sundowns 
+soccer||SOUTH AFRICA: ||Premier League||22/01/2019 17:30||g_1_lWRuLQuO||Orlando Pirates||Baroka 
+soccer||SOUTH AMERICA: ||Copa Libertadores - Qualification||22/01/2019 23:30||g_1_foWpARgG||Delfin (Ecu)||Nacional Asuncion (Par) 
+soccer||SOUTH AMERICA: ||South American Championship U20||22/01/2019 20:10||g_1_2B15il51||Argentina U20||Ecuador U20 
+soccer||SOUTH AMERICA: ||South American Championship U20||22/01/2019 22:30||g_1_t209j8K7||Paraguay U20||Peru U20 
+soccer||SPAIN: ||Copa del Rey||22/01/2019 20:30||g_1_IV3ReYnG||Getafe||Valencia 
+soccer||TURKEY: ||Turkish Cup||22/01/2019 15:00||g_1_Qeut58Kt||Akhisarspor||Kayserispor 
+soccer||TURKEY: ||Turkish Cup||22/01/2019 16:45||g_1_OQHwcBSJ||Boluspor||Galatasaray 
+soccer||WORLD: ||Friendly International||22/01/2019 07:00||g_1_jDs8IG3a||Bulgaria U17||Lithuania U17 
+soccer||WORLD: ||Friendly International||22/01/2019 09:05||g_1_4GoCHzJ5||Ukraine U17||Slovakia U17 
+soccer||WORLD: ||Friendly International||22/01/2019 11:10||g_1_bwoGGfYB||Iceland U17||Moldova U17 
+soccer||WORLD: ||Friendly International||22/01/2019 13:15||g_1_xUqKFEmI||Belgium U17||Tajikistan U17 
+soccer||WORLD: ||Friendly International||22/01/2019 15:20||g_1_Iu1HEY2O||Finland U17||Belarus U17 
+soccer||WORLD: ||Friendly International||22/01/2019 17:25||g_1_dWaLDhIU||Georgia U17||Israel U17 
+soccer||WORLD: ||Club Friendly||22/01/2019 10:00||g_1_pMFlb05d||Sion (Sui)||Bohemians 1905 (Cze) 
+soccer||WORLD: ||Club Friendly||22/01/2019 11:00||g_1_MHZrrbe1||CSKA Moscow (Rus)||Molde (Nor) 
+soccer||WORLD: ||Club Friendly||22/01/2019 11:00||g_1_Sfzuqvte||Venlo (Ned)||Venray (Ned) 
+soccer||WORLD: ||Club Friendly||22/01/2019 12:30||g_1_2X8yNynh||Randers FC (Den)||Fredericia (Den) 
+soccer||WORLD: ||Club Friendly||22/01/2019 13:00||g_1_dOuGE37O||AC Wolfsberger (Aut)||Ried (Aut) 
+soccer||WORLD: ||Club Friendly||22/01/2019 13:00||g_1_baIjhCbk||Magdeburg (Ger)||Zwickau (Ger) 
+soccer||WORLD: ||Club Friendly||22/01/2019 13:30||g_1_zLwmsIA7||LASK Linz (Aut)||Wattens (Aut) 
+soccer||WORLD: ||Club Friendly||22/01/2019 14:00||g_1_670aauyb||Basel (Sui)||Krasnodar (Rus) 
+soccer||WORLD: ||Club Friendly||22/01/2019 14:00||g_1_vuBRV3ag||Dudelange (Lux)||Saarbrucken (Ger) 
+soccer||WORLD: ||Club Friendly||22/01/2019 14:00||g_1_8Y3nd0Db||FK Krylya Sovetov Samara (Rus)||Zilina (Svk) 
+soccer||WORLD: ||Club Friendly||22/01/2019 14:00||g_1_UahkIGaD||Grasshoppers (Sui)||Vendsyssel (Den) 
+soccer||WORLD: ||Club Friendly||22/01/2019 14:00||g_1_CEA3QioC||Salzburg (Aut)||BW Linz (Aut) 
+soccer||WORLD: ||Club Friendly||22/01/2019 15:00||g_1_K8cHwDqd||Esbjerg (Den)||Kolding IF (Den) 
+soccer||WORLD: ||Club Friendly||22/01/2019 16:00||g_1_nDzVCqAg||Beijing Guoan (Chn)||Slavia Prague (Cze) 
+soccer||WORLD: ||Club Friendly||22/01/2019 16:30||g_1_zFvKDNMU||Sturm Graz (Aut)||SC Weiz (Aut) 
+soccer||WORLD: ||Club Friendly||22/01/2019 17:00||g_1_d83zBoGu||Zenit Petersburg (Rus)||Lokomotiv Moscow (Rus) 
+soccer||WORLD: ||Club Friendly||22/01/2019 17:30||g_1_phpkWGAQ||Vorwarts Steyr (Aut)||Ask St. Valentin (Aut) 
+soccer||WORLD: ||Friendly International Women||22/01/2019 17:00||g_1_x2Pf0mYR||South Africa W||Sweden W 
+soccer||WORLD: ||Friendly International Women||22/01/2019 19:35||g_1_UPy8PdI0||Spain W||USA W 

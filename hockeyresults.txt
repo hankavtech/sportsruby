@@ -1,0 +1,506 @@
+g_4_IgSaUgT1||Fin||team-home||1||0||0||1|| ||  
+x_4_IgSaUgT1||||bold||2||0||1||1|| ||  
+g_4_Kb6rgw62||Fin||team-home||2||0||1||1|| ||  
+x_4_Kb6rgw62||||bold||3||2||0||1|| ||  
+g_4_IwtBADPa||Fin||team-home||2||1||0||1|| ||  
+x_4_IwtBADPa||||bold||4||0||2||2|| ||  
+g_4_Q3uF9Xv6||Fin||team-home||4||1||1||2|| ||  
+x_4_Q3uF9Xv6||||bold||7||3||3||1|| ||  
+g_4_dI4q4NaA||AOT||team-home||2||0||1||1||0||  
+x_4_dI4q4NaA||||team-away||3||1||0||1||1||  
+g_4_Sr0u53p4||AOT||team-home||1||0||1||0||0||  
+x_4_Sr0u53p4||||team-away||2||0||1||0||1||  
+g_4_6RpgNK4D||AOT||team-home||4||1||1||2||0||  
+x_4_6RpgNK4D||||team-away||5||2||0||2||1||  
+g_4_8WOyn4sE||Fin||team-home||1||1||0||0|| ||  
+x_4_8WOyn4sE||||bold||2||1||1||0|| ||  
+g_4_pvFaDqyk||Fin||bold||5||3||1||1|| ||  
+x_4_pvFaDqyk||||team-away||0||0||0||0|| ||  
+g_4_nNNuoOdK||Fin||team-home||3||1||2||0|| ||  
+x_4_nNNuoOdK||||bold||6||1||2||3|| ||  
+g_4_jHFeEPLr||Pen||team-home||2||1||0||1||0||0 
+x_4_jHFeEPLr||||team-away||3||0||0||2||0||1 
+g_4_bTe7G7PR||Fin||bold||7||0||2||5|| ||  
+x_4_bTe7G7PR||||team-away||2||1||0||1|| ||  
+g_4_r1XwBomk||Fin||bold||6||3||3||0|| ||  
+x_4_r1XwBomk||||team-away||3||2||1||0|| ||  
+g_4_0xrZBRXr||Fin||bold||6||3||2||1|| ||  
+x_4_0xrZBRXr||||team-away||2||0||1||1|| ||  
+g_4_jRzn9PH1||Fin||team-home||5||1||2||2|| ||  
+x_4_jRzn9PH1||||bold||8||2||4||2|| ||  
+g_4_d4yrA52e||Fin||team-home||3||1||2||0|| ||  
+x_4_d4yrA52e||||bold||6||3||0||3|| ||  
+g_4_6ZIYWS98||Fin||team-home||3||0||1||2|| ||  
+x_4_6ZIYWS98||||bold||4||2||2||0|| ||  
+g_4_UHZk8qX7||Fin||team-home||1||0||1||0|| ||  
+x_4_UHZk8qX7||||bold||3||0||2||1|| ||  
+g_4_xMu6EKgs||Fin||bold||5||1||2||2|| ||  
+x_4_xMu6EKgs||||team-away||3||1||0||2|| ||  
+g_4_ldqADv9m||Fin||bold||3||1||1||1|| ||  
+x_4_ldqADv9m||||team-away||2||0||1||1|| ||  
+g_4_pQHxWnPE||AOT||team-home||4||2||0||1||1||  
+x_4_pQHxWnPE||||team-away||3||1||2||0||0||  
+g_4_WKYECbOg||Fin||team-home||4||2||1||1|| ||  
+x_4_WKYECbOg||||bold||7||1||2||4|| ||  
+g_4_ABXIBIw0||Fin||bold||4||2||0||2|| ||  
+x_4_ABXIBIw0||||team-away||1||1||0||0|| ||  
+g_4_00QV8GNI||Fin||bold||8||1||1||6|| ||  
+x_4_00QV8GNI||||team-away||4||1||2||1|| ||  
+g_4_Y5QmXeqq||Fin||bold||5||0||0||5|| ||  
+x_4_Y5QmXeqq||||team-away||1||0||0||1|| ||  
+g_4_MXaZQ54J||Fin||team-home||2||0||0||2|| ||  
+x_4_MXaZQ54J||||bold||4||1||2||1|| ||  
+g_4_Y73wQPJP||Fin||bold||7||2||3||2|| ||  
+x_4_Y73wQPJP||||team-away||5||2||1||2|| ||  
+g_4_vkt6LqSt||Fin||team-home||1||1||0||0|| ||  
+x_4_vkt6LqSt||||bold||2||0||1||1|| ||  
+g_4_CdPiWFbk||Fin||bold||6||2||0||4|| ||  
+x_4_CdPiWFbk||||team-away||4||0||1||3|| ||  
+g_4_IuuAK3sm||Fin||bold||5||3||0||2|| ||  
+x_4_IuuAK3sm||||team-away||3||0||1||2|| ||  
+g_4_Q5rIIsCa||Fin||team-home||1||0||1||0|| ||  
+x_4_Q5rIIsCa||||bold||3||1||1||1|| ||  
+g_4_nFqEJNdg||AOT||team-home||2||1||0||0||1||  
+x_4_nFqEJNdg||||team-away||1||1||0||0||0||  
+g_4_8UXMH1R5||Pen||team-home||4||2||0||1||0||2 
+x_4_8UXMH1R5||||team-away||3||1||1||1||0||0 
+g_4_6JOeVZDe||Pen||team-home||1||0||0||1||0||1 
+x_4_6JOeVZDe||||team-away||2||0||0||1||0||2 
+g_4_MXyRGLtC||AOT||team-home||2||0||2||0||0||  
+x_4_MXyRGLtC||||team-away||3||0||1||1||1||  
+g_4_GfyVFudI||Fin||team-home||1||0||1||0|| ||  
+x_4_GfyVFudI||||bold||4||2||2||0|| ||  
+g_4_zydTUF44||Fin||team-home||1||0||1||0|| ||  
+x_4_zydTUF44||||bold||4||2||1||1|| ||  
+g_4_dpcPVekb||Fin||bold||8||1||3||4|| ||  
+x_4_dpcPVekb||||team-away||1||0||0||1|| ||  
+g_4_hCjYTZJA||Fin||team-home||2||0||1||1|| ||  
+x_4_hCjYTZJA||||bold||3||2||1||0|| ||  
+g_4_QPltSDlN||AOT||team-home||4||2||1||1||0||  
+x_4_QPltSDlN||||team-away||5||3||0||1||1||  
+g_4_W2kxTgZG||Fin||bold||8||5||2||1|| ||  
+x_4_W2kxTgZG||||team-away||4||0||1||3|| ||  
+g_4_OA7qRX3T||Fin||team-home||2||1||1||0|| ||  
+x_4_OA7qRX3T||||bold||4||0||3||1|| ||  
+g_4_UipCMiCp||Fin||bold||5||1||0||4|| ||  
+x_4_UipCMiCp||||team-away||0||0||0||0|| ||  
+g_4_xOjudO9p||Fin||bold||6||3||1||2|| ||  
+x_4_xOjudO9p||||team-away||4||1||1||2|| ||  
+g_4_jRfqerPj||Fin||team-home||2||1||1||0|| ||  
+x_4_jRfqerPj||||bold||5||0||3||2|| ||  
+g_4_4UrRJR1i||AOT||team-home||3||1||2||0||0||  
+x_4_4UrRJR1i||||team-away||4||0||1||2||1||  
+g_4_WtEC041T||Fin||bold||5||4||0||1|| ||  
+x_4_WtEC041T||||team-away||1||1||0||0|| ||  
+g_4_rLsVIoHc||AOT||team-home||1||0||0||1||0||  
+x_4_rLsVIoHc||||team-away||2||0||0||1||1||  
+g_4_0dxzI5W3||Fin||team-home||2||0||1||1|| ||  
+x_4_0dxzI5W3||||bold||4||0||1||3|| ||  
+g_4_vmyvHPoA||Fin||bold||7||1||1||5|| ||  
+x_4_vmyvHPoA||||team-away||1||0||1||0|| ||  
+g_4_rJ2BbHVr||Fin||team-home||4||1||3||0|| ||  
+x_4_rJ2BbHVr||||bold||5||4||1||0|| ||  
+g_4_QshGcyok||Fin||team-home||0||0||0||0|| ||  
+x_4_QshGcyok||||bold||3||1||1||1|| ||  
+g_4_dCizXCOb||Fin||bold||6||1||2||3|| ||  
+x_4_dCizXCOb||||team-away||2||0||1||1|| ||  
+g_4_EmnuWWw5||Pen||team-home||5||1||2||2||0||0 
+x_4_EmnuWWw5||||team-away||6||2||1||2||0||1 
+g_4_dACGCrwp||Fin||team-home||2||0||1||1|| ||  
+x_4_dACGCrwp||||bold||3||0||0||3|| ||  
+g_4_ObgSYYgn||Fin||team-home||1||0||1||0|| ||  
+x_4_ObgSYYgn||||bold||4||2||0||2|| ||  
+g_4_ILhWXh9h||Fin||bold||4||1||2||1|| ||  
+x_4_ILhWXh9h||||team-away||1||0||0||1|| ||  
+g_4_hvoqVjgB||Fin||team-home||1||0||0||1|| ||  
+x_4_hvoqVjgB||||bold||2||0||2||0|| ||  
+g_4_n1pmUA8H||Fin||bold||3||1||1||1|| ||  
+x_4_n1pmUA8H||||team-away||1||0||1||0|| ||  
+g_4_hbcAg3Zn||Fin||bold||4||1||2||1|| ||  
+x_4_hbcAg3Zn||||team-away||1||1||0||0|| ||  
+g_4_On3PdNpJ||Fin||bold||5||0||1||4|| ||  
+x_4_On3PdNpJ||||team-away||4||1||2||1|| ||  
+g_4_hpxFJSDf||Fin||bold||5||2||2||1|| ||  
+x_4_hpxFJSDf||||team-away||4||0||2||2|| ||  
+g_4_QBkMH6r7||AOT||team-home||2||0||1||0||1||  
+x_4_QBkMH6r7||||team-away||1||1||0||0||0||  
+g_4_WzyJInT0||AOT||team-home||5||1||2||1||1||  
+x_4_WzyJInT0||||team-away||4||1||2||1||0||  
+g_4_ALnAK8bl||Fin||team-home||1||1||0||0|| ||  
+x_4_ALnAK8bl||||bold||7||3||2||2|| ||  
+g_4_8WbZwUns||Fin||team-home||3||2||0||1|| ||  
+x_4_8WbZwUns||||bold||4||1||1||2|| ||  
+g_4_0xbtRB00||Fin||team-home||0||0||0||0|| ||  
+x_4_0xbtRB00||||bold||20||7||5||8|| ||  
+g_4_vTdpQVF6||Fin||team-home||4||1||1||2|| ||  
+x_4_vTdpQVF6||||bold||7||3||2||2|| ||  
+g_4_Qsz1UxnF||Fin||team-home||3||0||2||1|| ||  
+x_4_Qsz1UxnF||||bold||4||1||2||1|| ||  
+g_4_vov5Td1L||Fin||bold||4||1||2||1|| ||  
+x_4_vov5Td1L||||team-away||2||0||1||1|| ||  
+g_4_rJpdVIW8||Fin||team-home||1||0||0||1|| ||  
+x_4_rJpdVIW8||||bold||5||1||3||1|| ||  
+g_4_Y7w9SGGR||Pen||team-home||3||1||0||2||0||0 
+x_4_Y7w9SGGR||||team-away||4||1||1||1||0||1 
+g_4_GChA7Fv2||Fin||bold||11||4||6||1|| ||  
+x_4_GChA7Fv2||||team-away||1||0||0||1|| ||  
+g_4_4SohWbH2||Fin||bold||6||2||1||3|| ||  
+x_4_4SohWbH2||||team-away||3||0||1||2|| ||  
+g_4_baWAXEGb||Fin||bold||4||0||3||1|| ||  
+x_4_baWAXEGb||||team-away||1||0||0||1|| ||  
+g_4_pdS6Yf1h||Fin||bold||7||2||2||3|| ||  
+x_4_pdS6Yf1h||||team-away||1||0||1||0|| ||  
+g_4_4vEvdkaG||Fin||team-home||1||1||0||0|| ||  
+x_4_4vEvdkaG||||bold||6||1||1||4|| ||  
+g_4_rVCre9EM||Fin||team-home||3||1||1||1|| ||  
+x_4_rVCre9EM||||bold||5||0||3||2|| ||  
+g_4_84Ks7emN||Fin||team-home||1||0||1||0|| ||  
+x_4_84Ks7emN||||bold||4||3||0||1|| ||  
+g_4_jB8CAAYO||AOT||team-home||3||0||2||1||0||  
+x_4_jB8CAAYO||||team-away||4||1||2||0||1||  
+g_4_hGneZgBP||Fin||bold||3||1||0||2|| ||  
+x_4_hGneZgBP||||team-away||2||2||0||0|| ||  
+g_4_fPYMUDJt||Fin||bold||4||1||2||1|| ||  
+x_4_fPYMUDJt||||team-away||3||1||1||1|| ||  
+g_4_ObwRTXYn||Fin||bold||3||2||0||1|| ||  
+x_4_ObwRTXYn||||team-away||2||0||2||0|| ||  
+g_4_rJboxBqc||Fin||team-home||5||1||1||3|| ||  
+x_4_rJboxBqc||||bold||6||0||4||2|| ||  
+g_4_2kxVSilg||Fin||team-home||2||0||1||1|| ||  
+x_4_2kxVSilg||||bold||4||0||0||4|| ||  
+g_4_M9ckyVb3||Pen||team-home||3||1||0||1||0||1 
+x_4_M9ckyVb3||||team-away||2||1||0||1||0||0 
+g_4_YJP6ujsA||Fin||bold||9||2||5||2|| ||  
+x_4_YJP6ujsA||||team-away||5||1||2||2|| ||  
+g_4_StPAvAdG||Fin||bold||5||1||1||3|| ||  
+x_4_StPAvAdG||||team-away||2||0||1||1|| ||  
+g_4_6XNEwUBM||AOT||team-home||4||1||2||0||1||  
+x_4_6XNEwUBM||||team-away||3||1||2||0||0||  
+g_4_QH4oY7Zq||Fin||team-home||2||0||0||2|| ||  
+x_4_QH4oY7Zq||||bold||4||1||2||1|| ||  
+g_4_WE7gWo4d||AOT||team-home||3||2||0||1||0||  
+x_4_WE7gWo4d||||team-away||4||1||0||2||1||  
+g_4_Kv4kXRlj||Fin||team-home||2||0||1||1|| ||  
+x_4_Kv4kXRlj||||bold||3||2||0||1|| ||  
+g_4_O8IJxlRS||AOT||team-home||3||0||1||2||0||  
+x_4_O8IJxlRS||||team-away||4||1||2||0||1||  
+g_4_SdFOX5An||Fin||team-home||2||0||2||0|| ||  
+x_4_SdFOX5An||||bold||8||1||4||3|| ||  
+g_4_6mESWPPh||Fin||team-home||0||0||0||0|| ||  
+x_4_6mESWPPh||||bold||7||2||2||3|| ||  
+g_4_EDHzV3f5||Fin||bold||5||0||3||2|| ||  
+x_4_EDHzV3f5||||team-away||1||0||1||0|| ||  
+g_4_zNIWVqua||AOT||team-home||4||1||2||0||1||  
+x_4_zNIWVqua||||team-away||3||2||0||1||0||  
+g_4_roNeXjHd||Pen||team-home||4||0||2||1||0||1 
+x_4_roNeXjHd||||team-away||3||2||0||1||0||0 
+g_4_dx7uUN9B||Fin||bold||3||1||2||0|| ||  
+x_4_dx7uUN9B||||team-away||2||0||2||0|| ||  
+g_4_xAXanIDl||Fin||team-home||1||1||0||0|| ||  
+x_4_xAXanIDl||||bold||4||1||2||1|| ||  
+g_4_YyR8pdr1||Fin||team-home||1||0||1||0|| ||  
+x_4_YyR8pdr1||||bold||2||1||0||1|| ||  
+g_4_6kPGrzDD||Fin||bold||3||0||2||1|| ||  
+x_4_6kPGrzDD||||team-away||2||0||0||2|| ||  
+g_4_KYM4oxTf||Fin||bold||2||1||1||0|| ||  
+x_4_KYM4oxTf||||team-away||1||0||1||0|| ||  
+g_4_SbQCqGc7||Fin||bold||1||0||0||1|| ||  
+x_4_SbQCqGc7||||team-away||0||0||0||0|| ||  
+g_4_rHDcOu1n||AOT||team-home||2||0||1||0||1||  
+x_4_rHDcOu1n||||team-away||1||1||0||0||0||  
+g_4_WtAgPLot||Fin||team-home||2||1||0||1|| ||  
+x_4_WtAgPLot||||bold||5||3||1||1|| ||  
+g_4_xvD1NaGh||Fin||team-home||0||0||0||0|| ||  
+x_4_xvD1NaGh||||bold||5||1||2||2|| ||  
+g_4_GUB5MJVb||Fin||bold||6||1||3||2|| ||  
+x_4_GUB5MJVb||||team-away||0||0||0||0|| ||  
+g_4_Y56ALwo5||Fin||team-home||2||1||0||1|| ||  
+x_4_Y56ALwo5||||bold||8||2||4||2|| ||  
+g_4_CjYGwcrB||Fin||team-home||1||0||0||1|| ||  
+x_4_CjYGwcrB||||bold||3||3||0||0|| ||  
+g_4_2L0V1c7n||Fin||team-home||3||1||2||0|| ||  
+x_4_2L0V1c7n||||bold||6||0||1||5|| ||  
+g_4_WhlIyyDN||Pen||team-home||6||1||1||3||0||1 
+x_4_WhlIyyDN||||team-away||5||1||3||1||0||0 
+g_4_tCaZ0HMh||Fin||team-home||4||0||1||3|| ||  
+x_4_tCaZ0HMh||||bold||7||3||2||2|| ||  
+g_4_YwAKlEGj||Fin||bold||5||2||2||1|| ||  
+x_4_YwAKlEGj||||team-away||2||0||1||1|| ||  
+g_4_MZ2KxEM2||Fin||bold||4||3||1||0|| ||  
+x_4_MZ2KxEM2||||team-away||0||0||0||0|| ||  
+g_4_EmtC8n7C||AOT||team-home||4||1||2||1||0||  
+x_4_EmtC8n7C||||team-away||5||1||1||2||1||  
+g_4_zcs89Si6||Fin||team-home||2||0||2||0|| ||  
+x_4_zcs89Si6||||bold||4||2||2||0|| ||  
+g_4_fLnbmkad||AOT||team-home||2||0||1||1||0||  
+x_4_fLnbmkad||||team-away||3||1||0||1||1||  
+g_4_MRztCYyc||Fin||bold||6||0||1||5|| ||  
+x_4_MRztCYyc||||team-away||2||0||2||0|| ||  
+g_4_ENvOioed||Fin||team-home||0||0||0||0|| ||  
+x_4_ENvOioed||||bold||2||1||0||1|| ||  
+g_4_6cyGg7Qq||Fin||bold||10||5||2||3|| ||  
+x_4_6cyGg7Qq||||team-away||1||1||0||0|| ||  
+g_4_zs3KApqo||Fin||team-home||1||0||1||0|| ||  
+x_4_zs3KApqo||||bold||5||1||2||2|| ||  
+g_4_0KzKhRuj||Fin||team-home||0||0||0||0|| ||  
+x_4_0KzKhRuj||||bold||5||1||3||1|| ||  
+g_4_UXDnBZeH||Fin||team-home||1||0||1||0|| ||  
+x_4_UXDnBZeH||||bold||6||2||1||3|| ||  
+g_4_jZp1JL1q||Fin||bold||15||5||3||7|| ||  
+x_4_jZp1JL1q||||team-away||1||0||1||0|| ||  
+g_4_zNEM6J4m||Fin||bold||5||2||3|| || ||  
+x_4_zNEM6J4m||||team-away||3||2||1|| || ||  
+g_4_UqEQ5wKg||Fin||team-home||3||1||2|| || ||  
+x_4_UqEQ5wKg||||bold||4||4||0|| || ||  
+g_4_nkrhSL74||Pen||team-home||8||2||5|| || ||3 
+x_4_nkrhSL74||||team-away||7||3||4|| || ||1 
+g_4_8bqlT1hb||Fin||bold||4||3||1|| || ||  
+x_4_8bqlT1hb||||team-away||3||1||2|| || ||  
+g_4_ttVxhyr7||Fin||team-home||1||1||0||0|| ||  
+x_4_ttVxhyr7||||bold||4||0||2||2|| ||  
+g_4_KWTtiecD||Fin||team-home||1||0||1||0|| ||  
+x_4_KWTtiecD||||bold||4||1||2||1|| ||  
+g_4_fHj0jku7||Fin||team-home||2||1||0||1|| ||  
+x_4_fHj0jku7||||bold||4||1||2||1|| ||  
+g_4_Ch1eiVP0||Fin||team-home||2||0||2||0|| ||  
+x_4_Ch1eiVP0||||bold||3||2||0||1|| ||  
+g_4_ngSBCud9||Pen||team-home||6||1||1||4||0||0 
+x_4_ngSBCud9||||team-away||7||0||3||3||0||2 
+g_4_bNjBYYWm||Fin||bold||10||4||1||5|| ||  
+x_4_bNjBYYWm||||team-away||1||0||1||0|| ||  
+g_4_EuU3E1Rd||Fin||team-home||0||0||0||0|| ||  
+x_4_EuU3E1Rd||||bold||1||0||0||1|| ||  
+g_4_bXoHjbZk||Fin||bold||4||1||1||2|| ||  
+x_4_bXoHjbZk||||team-away||1||1||0||0|| ||  
+g_4_CQfFXhnf||Fin||bold||4||2||1||1|| ||  
+x_4_CQfFXhnf||||team-away||0||0||0||0|| ||  
+g_4_pvoFBaBF||Fin||bold||3||2||0||1|| ||  
+x_4_pvoFBaBF||||team-away||2||1||0||1|| ||  
+g_4_MNrnEhXD||Fin||team-home||1||1||0||0|| ||  
+x_4_MNrnEhXD||||bold||3||1||0||2|| ||  
+g_4_8Kf4k9fD||Fin||team-home||1||0||0||1|| ||  
+x_4_8Kf4k9fD||||bold||3||0||0||3|| ||  
+g_4_Y12ihBAf||Fin||bold||4||1||0||3|| ||  
+x_4_Y12ihBAf||||team-away||2||0||1||1|| ||  
+g_4_4Scmgiel||Pen||team-home||3||0||1||1||0||3 
+x_4_4Scmgiel||||team-away||2||1||1||0||0||1 
+g_4_QyaqfXur||Fin||team-home||0||0||0||0|| ||  
+x_4_QyaqfXur||||bold||1||0||0||1|| ||  
+g_4_fkpKWC10||AOT||team-home||1||0||0||1||0||  
+x_4_fkpKWC10||||team-away||2||0||1||0||1||  
+g_4_xOpLkIld||Fin||bold||5||3||1||1|| ||  
+x_4_xOpLkIld||||team-away||1||0||1||0|| ||  
+g_4_hWS7DLt3||Fin||bold||2||2||0||0|| ||  
+x_4_hWS7DLt3||||team-away||1||0||1||0|| ||  
+g_4_zLDXHh3Q||Fin||bold||2||0||2||0|| ||  
+x_4_zLDXHh3Q||||team-away||1||1||0||0|| ||  
+g_4_f9dzJYmK||Fin||bold||4||0||2||2|| ||  
+x_4_f9dzJYmK||||team-away||1||0||1||0|| ||  
+g_4_SIhCAAe0||Pen||team-home||3||2||1||0||0||0 
+x_4_SIhCAAe0||||team-away||4||1||1||1||0||1 
+g_4_O40UqJm9||Fin||team-home||3||1||1||1|| ||  
+x_4_O40UqJm9||||bold||4||0||2||2|| ||  
+g_4_bNhssHXR||Fin||team-home||0||0||0||0|| ||  
+x_4_bNhssHXR||||bold||5||4||1||0|| ||  
+g_4_KWgwrcIL||Fin||team-home||0||0||0||0|| ||  
+x_4_KWgwrcIL||||bold||9||3||4||2|| ||  
+g_4_G2u9xytq||Fin||bold||4||1||0||3|| ||  
+x_4_G2u9xytq||||team-away||1||1||0||0|| ||  
+g_4_Yqitg3lG||Fin||team-home||2||0||1||1|| ||  
+x_4_Yqitg3lG||||bold||5||1||1||3|| ||  
+g_4_vNixfqZ9||AOT||team-home||2||1||1||0||0||  
+x_4_vNixfqZ9||||team-away||3||0||0||2||1||  
+g_4_pIRjFsa4||AOT||team-home||3||1||1||0||1||  
+x_4_pIRjFsa4||||team-away||2||1||0||1||0||  
+g_4_rok1bbRe||Fin||bold||5||0||5||0|| ||  
+x_4_rok1bbRe||||team-away||3||0||1||2|| ||  
+g_4_nFuiLLY8||Pen||team-home||4||0||1||2||0||3 
+x_4_nFuiLLY8||||team-away||3||0||2||1||0||0 
+g_4_46KnG83t||AOT||team-home||1||1||0||0||0||  
+x_4_46KnG83t||||team-away||2||0||0||1||1||  
+g_4_Myl5cIt2||Pen||team-home||2||0||1||0||0||2 
+x_4_Myl5cIt2||||team-away||1||1||0||0||0||1 
+g_4_zuxmM1J2||Fin||bold||4||2||1||1|| ||  
+x_4_zuxmM1J2||||team-away||3||0||2||1|| ||  
+g_4_r3ELKleP||Fin||team-home||0||0||0||0|| ||  
+x_4_r3ELKleP||||bold||5||2||1||2|| ||  
+g_4_hQFW8nqR||Pen||team-home||2||1||0||0||0||1 
+x_4_hQFW8nqR||||team-away||1||0||0||1||0||0 
+g_4_f9OQ8hX6||Fin||bold||7||1||2||4|| ||  
+x_4_f9OQ8hX6||||team-away||3||1||1||1|| ||  
+g_4_rgL63Jb0||AOT||team-home||1||1||0||0||0||  
+x_4_rgL63Jb0||||team-away||2||0||0||1||1||  
+g_4_GAuTAhyK||Fin||bold||4||1||3||0|| ||  
+x_4_GAuTAhyK||||team-away||3||0||2||1|| ||  
+g_4_xKtPBYLD||AOT||team-home||2||1||0||1||0||  
+x_4_xKtPBYLD||||team-away||3||0||0||2||1||  
+g_4_bZAr3tID||Fin||team-home||2||0||0||2|| ||  
+x_4_bZAr3tID||||bold||4||1||1||2|| ||  
+g_4_AXvX9CjQ||Fin||team-home||3||2||0||1|| ||  
+x_4_AXvX9CjQ||||bold||5||3||2||0|| ||  
+g_4_A1G9phoJ||Fin||team-home||1||0||0||1|| ||  
+x_4_A1G9phoJ||||bold||10||1||4||5|| ||  
+g_4_lfAIYhPe||Fin||bold||4||3||1||0|| ||  
+x_4_lfAIYhPe||||team-away||1||0||1||0|| ||  
+g_4_Sp9MXCv2||Fin||bold||7||0||5||2|| ||  
+x_4_Sp9MXCv2||||team-away||1||0||0||1|| ||  
+g_4_KxBPBiYQ||Fin||bold||5||1||3||1|| ||  
+x_4_KxBPBiYQ||||team-away||1||0||1||0|| ||  
+g_4_IBDcLJND||Fin||bold||3||1||1||1|| ||  
+x_4_IBDcLJND||||team-away||1||1||0||0|| ||  
+g_4_UmtR3iht||Fin||bold||5||1||2||2|| ||  
+x_4_UmtR3iht||||team-away||0||0||0||0|| ||  
+g_4_G2Zb7o0O||Fin||bold||2||0||2||0|| ||  
+x_4_G2Zb7o0O||||team-away||0||0||0||0|| ||  
+g_4_xAFh0Cns||AOT||team-home||3||2||1||0||0||  
+x_4_xAFh0Cns||||team-away||4||1||1||1||1||  
+g_4_G0EdaW1m||Fin||bold||6||3||1||2|| ||  
+x_4_G0EdaW1m||||team-away||3||2||0||1|| ||  
+g_4_GzcNcPPo||Pen||team-home||1||0||0||0||0||2 
+x_4_GzcNcPPo||||team-away||0||0||0||0||0||0 
+g_4_2q1lg7wO||Fin||team-home||1||0||0||1|| ||  
+x_4_2q1lg7wO||||bold||5||1||3||1|| ||  
+g_4_fReRdquh||Fin||team-home||1||1||0||0|| ||  
+x_4_fReRdquh||||bold||3||1||0||2|| ||  
+g_4_216X4LNB||Pen||team-home||3||1||0||1||0||1 
+x_4_216X4LNB||||team-away||2||1||1||0||0||0 
+g_4_th5y4uwI||Fin||team-home||6||1||2||3|| ||  
+x_4_th5y4uwI||||bold||8||1||5||2|| ||  
+g_4_AR9u3ahO||Fin||bold||4||2||2||0|| ||  
+x_4_AR9u3ahO||||team-away||1||1||0||0|| ||  
+g_4_lI8q2J7U||Fin||bold||5||0||3||2|| ||  
+x_4_lI8q2J7U||||team-away||0||0||0||0|| ||  
+g_4_EuzjN2wt||Fin||bold||3||2||1||0|| ||  
+x_4_EuzjN2wt||||team-away||2||0||0||2|| ||  
+g_4_MXD2MAxm||Fin||bold||2||1||1||0|| ||  
+x_4_MXD2MAxm||||team-away||0||0||0||0|| ||  
+g_4_O6uf1fEq||Fin||bold||5||3||0||2|| ||  
+x_4_O6uf1fEq||||team-away||2||0||2||0|| ||  
+g_4_xAqb0ETk||Fin||bold||2||1||1||0|| ||  
+x_4_xAqb0ETk||||team-away||1||0||1||0|| ||  
+g_4_Ek7pAnVA||AOT||team-home||2||0||0||1||1||  
+x_4_Ek7pAnVA||||team-away||1||0||1||0||0||  
+g_4_WWr2aYrd||AOT||team-home||3||2||1||0||0||  
+x_4_WWr2aYrd||||team-away||4||1||2||0||1||  
+g_4_ANs6bhb2||Pen||team-home||2||0||1||1||0||0 
+x_4_ANs6bhb2||||team-away||3||1||0||1||0||2 
+g_4_YTz6CKxc||Fin||team-home||2||1||0||1|| ||  
+x_4_YTz6CKxc||||bold||3||1||1||1|| ||  
+g_4_rLmbDFus||Fin||bold||4||1||2||1|| ||  
+x_4_rLmbDFus||||team-away||2||0||0||2|| ||  
+g_4_nk2SIyIJ||Fin||team-home||2||0||0||2|| ||  
+x_4_nk2SIyIJ||||bold||5||0||2||3|| ||  
+g_4_Qu1WHeXP||Fin||bold||3||1||1||1|| ||  
+x_4_Qu1WHeXP||||team-away||2||1||0||1|| ||  
+g_4_CKZ9Bvh3||Fin||bold||6||2||2||2|| ||  
+x_4_CKZ9Bvh3||||team-away||3||1||1||1|| ||  
+g_4_fqPEAb79||Fin||team-home||2||0||0||2|| ||  
+x_4_fqPEAb79||||bold||4||2||1||1|| ||  
+g_4_8nTI9IMF||Fin||bold||2||2||0||0|| ||  
+x_4_8nTI9IMF||||team-away||1||0||1||0|| ||  
+g_4_dOi2CZfm||Fin||team-home||2||0||1||1|| ||  
+x_4_dOi2CZfm||||bold||5||0||3||2|| ||  
+g_4_29SM8xxM||Fin||bold||7||3||2||2|| ||  
+x_4_29SM8xxM||||team-away||3||1||2||0|| ||  
+g_4_t0RQ7diS||Fin||bold||8||3||1||4|| ||  
+x_4_t0RQ7diS||||team-away||5||1||1||3|| ||  
+g_4_pUVo3Gaq||Fin||bold||3||2||1||0|| ||  
+x_4_pUVo3Gaq||||team-away||0||0||0||0|| ||  
+g_4_vms7BgAg||Fin||bold||3||1||0||2|| ||  
+x_4_vms7BgAg||||team-away||2||0||2||0|| ||  
+g_4_dQhkD8oc||Pen||team-home||4||1||0||2||0||2 
+x_4_dQhkD8oc||||team-away||3||1||2||0||0||1 
+g_4_K896lP8d||Fin||bold||3||1||0||2|| ||  
+x_4_K896lP8d||||team-away||0||0||0||0|| ||  
+g_4_zHigCS03||Fin||team-home||0||0||0||0|| ||  
+x_4_zHigCS03||||bold||3||0||2||1|| ||  
+g_4_tIA2k5gj||Fin||bold||4||0||1||3|| ||  
+x_4_tIA2k5gj||||team-away||2||1||1||0|| ||  
+g_4_UwicBnG9||Postp||team-home||-|| || || || ||  
+x_4_UwicBnG9||||team-away||-|| || || || ||  
+g_4_Q5p69QpM||Pen||team-home||3||0||2||0||0||1 
+x_4_Q5p69QpM||||team-away||2||0||1||1||0||0 
+g_4_4dqA8p0S||AOT||team-home||2||0||0||2||0||  
+x_4_4dqA8p0S||||team-away||3||0||2||0||1||  
+g_4_Mkoy448q||Fin||bold||4||2||0||2|| ||  
+x_4_Mkoy448q||||team-away||2||0||1||1|| ||  
+g_4_0tpu3ONk||Fin||team-home||0||0||0||0|| ||  
+x_4_0tpu3ONk||||bold||2||0||2||0|| ||  
+g_4_r5Zq2rwd||Fin||team-home||2||0||1||1|| ||  
+x_4_r5Zq2rwd||||bold||6||0||3||3|| ||  
+g_4_d8wl12h2||Fin||team-home||0||0||0||0|| ||  
+x_4_d8wl12h2||||bold||5||1||3||1|| ||  
+g_4_ABRVPoV2||Fin||bold||4||2||2||0|| ||  
+x_4_ABRVPoV2||||team-away||2||0||1||1|| ||  
+g_4_r3r86cUs||Fin||team-home||0||0||0||0|| ||  
+x_4_r3r86cUs||||bold||4||1||1||2|| ||  
+g_4_WY77Ra6P||Fin||team-home||1||0||0||1|| ||  
+x_4_WY77Ra6P||||bold||4||2||1||1|| ||  
+g_4_WxMPWuQE||Fin||team-home||1||0||1||0|| ||  
+x_4_WxMPWuQE||||bold||2||1||1||0|| ||  
+g_4_ziho9ck5||Fin||bold||6||4||2||0|| ||  
+x_4_ziho9ck5||||team-away||1||1||0||0|| ||  
+g_4_UDik8H4B||Fin||team-home||3||1||1||1|| ||  
+x_4_UDik8H4B||||bold||4||0||3||1|| ||  
+g_4_bJ0WdH9e||Fin||team-home||4||0||1||3|| ||  
+x_4_bJ0WdH9e||||bold||7||3||2||2|| ||  
+g_4_8faZMJEt||Fin||team-home||1||1||0||0|| ||  
+x_4_8faZMJEt||||bold||5||1||2||2|| ||  
+g_4_84jg7yKH||Pen||team-home||4||1||2||0||0||1 
+x_4_84jg7yKH||||team-away||3||0||1||2||0||0 
+g_4_Quob6eZN||Pen||team-home||3||1||1||1||0||0 
+x_4_Quob6eZN||||team-away||4||3||0||0||0||1 
+g_4_4Wq25FlU||AOT||team-home||5||2||2||1||0||  
+x_4_4Wq25FlU||||team-away||6||1||2||2||1||  
+g_4_thL7QbKu||Fin||team-home||1||0||0||1|| ||  
+x_4_thL7QbKu||||bold||5||2||1||2|| ||  
+g_4_hSOBPIZo||Fin||bold||4||0||2||2|| ||  
+x_4_hSOBPIZo||||team-away||1||0||0||1|| ||  
+g_4_ziEGOxkh||AOT||team-home||4||0||3||0||1||  
+x_4_ziEGOxkh||||team-away||3||1||2||0||0||  
+g_4_EsDKNd4b||Fin||bold||4||2||1||1|| ||  
+x_4_EsDKNd4b||||team-away||2||0||1||1|| ||  
+g_4_E5e7EhRp||Fin||bold||5||2||1||2|| ||  
+x_4_E5e7EhRp||||team-away||3||2||1||0|| ||  
+g_4_rHHOMGJ4||Pen||team-home||3||1||0||1||0||1 
+x_4_rHHOMGJ4||||team-away||2||0||0||2||0||0 
+g_4_t8oSk6zc||Fin||bold||7||0||4||3|| ||  
+x_4_t8oSk6zc||||team-away||2||0||1||1|| ||  
+g_4_I39CRAr9||AOT||team-home||1||0||0||1||0||0 
+x_4_I39CRAr9||||team-away||2||0||1||0||1||0 
+g_4_SYpUFS1m||Fin||bold||5||2||1||2|| ||  
+x_4_SYpUFS1m||||team-away||2||1||0||1|| ||  
+g_4_llgmripm||Fin||team-home||3||1||1||1|| ||  
+x_4_llgmripm||||bold||6||1||3||2|| ||  
+g_4_hfPhaJvL||Fin||bold||5||2||0||3|| ||  
+x_4_hfPhaJvL||||team-away||2||1||1||0|| ||  
+g_4_zwc1gNOg||Fin||team-home||2||0||2||0|| ||  
+x_4_zwc1gNOg||||bold||5||4||0||1|| ||  
+g_4_ETe5hsv0||Fin||bold||5||0||1||4|| ||  
+x_4_ETe5hsv0||||team-away||1||0||0||1|| ||  
+g_4_Mge9i1g6||Fin||team-home||4||0||3||1|| ||  
+x_4_Mge9i1g6||||bold||7||2||2||3|| ||  
+g_4_0pfDjL8C||Pen||team-home||4||0||1||2||0||1 
+x_4_0pfDjL8C||||team-away||3||1||2||0||0||0 
+g_4_r9qIkuOI||Fin||bold||6||1||0||5|| ||  
+x_4_r9qIkuOI||||team-away||2||1||0||1|| ||  
+g_4_foCoYCho||AOT||team-home||3||1||0||1||1||  
+x_4_foCoYCho||||team-away||2||2||0||0||0||  
+g_4_8l0TddVo||Fin||bold||5||1||1||3|| ||  
+x_4_8l0TddVo||||team-away||0||0||0||0|| ||  
+g_4_nuaXeGph||Fin||team-home||4||2||1||1|| ||  
+x_4_nuaXeGph||||bold||6||0||2||4|| ||  
+g_4_lCLvcKxT||Fin||bold||2||0||1||1|| ||  
+x_4_lCLvcKxT||||team-away||0||0||0||0|| ||  
+g_4_jL76hvop||Postp||team-home||-|| || || || ||  
+x_4_jL76hvop||||team-away||-|| || || || ||  
+g_4_pr7Aib0j||Fin||bold||9||0||2||7|| ||  
+x_4_pr7Aib0j||||team-away||0||0||0||0|| ||  
+g_4_426w3y4C||Fin||team-home||0||0||0||0|| ||  
+x_4_426w3y4C||||bold||6||2||2||2|| ||  
+g_4_QB7Z3Hl6||Fin||team-home||1||0||0||1|| ||  
+x_4_QB7Z3Hl6||||bold||5||2||1||2|| ||  
+g_4_f5KTnLJi||Fin||team-home||3||1||2||0|| ||  
+x_4_f5KTnLJi||||bold||5||3||0||2|| ||  
+g_4_GELPm14o||Fin||bold||5||2||2||1|| ||  
+x_4_GELPm14o||||team-away||3||1||1||1|| ||  

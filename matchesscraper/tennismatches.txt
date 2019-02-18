@@ -1,0 +1,164 @@
+tennis||ATP - SINGLES: ||Australian Open (Australia), hard||21/01/2019 07:10||g_2_rLmWWU7A||Carreno-Busta P. (Esp)||Nishikori K. (Jpn) 
+tennis||ATP - SINGLES: ||Australian Open (Australia), hard||21/01/2019 09:30||g_2_E7hdB0Zd||Djokovic N. (Srb)||Medvedev D. (Rus) 
+tennis||WTA - SINGLES: ||Australian Open (Australia), hard||21/01/2019 08:10||g_2_SQtYk2wU||Halep S. (Rou)||Williams S. (Usa) 
+tennis||ATP - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 07:15||g_2_hpMPVvUn||Harrison R./Querrey S.||Sock J./Withrow J. 
+tennis||ATP - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_00nMl01h||Mayer L./Sousa J.||Klaasen R./Venus M. 
+tennis||ATP - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_bsa0fg9m||Murray J./Soares B.||Kontinen H./Peers J. 
+tennis||WTA - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_zVQ4QEf7||Atawo R./Srebotnik K.||Babos T./Mladenovic K. 
+tennis||WTA - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_SOiLYxmR||Chan H-C./Chan L.||Brady J./Riske A. 
+tennis||WTA - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_QgjHjB8C||Krejcikova B./Siniakova K.||Stosur S./Zhang S. 
+tennis||WTA - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_xQZXMjCr||Strycova B./Vondrousova M.||Klepac A./Martinez Sanchez M. J. 
+tennis||MIXED DOUBLES: ||Australian Open (Australia), hard||21/01/2019 06:45||g_2_MZ2GbyVG||Mladenovic K./Lindstedt R.||Mattek-Sands B./Murray J. 
+tennis||MIXED DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_8A5Xshl8||Babos T./Fucsovics M.||Melichar N./Soares B. 
+tennis||MIXED DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_E7b4IVLk||Dabrowski G./Pavic M.||Chan H-C./Rojer J. 
+tennis||MIXED DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_zHa0JB6q||Krejcikova B./Ram R.||Swiatek I./Kubot L. 
+tennis||MIXED DOUBLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_M1PK2eIj||Stosur S./Paes L.||Groenefeld A./Farah R. 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||21/01/2019 23:00||g_2_n9YiTGAl||Chung Y. (Kor)||Giustino L. (Ita) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||21/01/2019 23:00||g_2_Sx9TDDZR||Lamasine T. (Fra)||Sela D. (Isr) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||21/01/2019 23:00||g_2_pWAf9Xsq||Wu D. (Chn)||O'Connell C. (Aus) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 18:00||g_2_vsvHABbh||Blanch U. (Usa)||Aragone J. (Usa) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 18:00||g_2_IXxL9VDb||Kypson P. (Usa)||Young D. (Usa) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_QwEsdCqa||Elias G. (Por)||Bellucci T. (Bra) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_8M92ilbU||Giraldo S. (Col)||Marcora R. (Ita) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_vsIoeWb5||Petrovic D. (Srb)||Galan Riveros D. E. (Col) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_UVAbhUrO||Smith R. (Usa)||Bonzi B. (Fra) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_CfGggATH||Vilella M. M. (Esp)||Couacaud E. (Fra) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_Y3HkfjEB||Cid Subervi R. (Dom)||Peliwo F. (Can) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_dIlCBiqn||Krueger M. (Usa)||King E. (Usa) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_pro8CXTu||Novikov D. (Usa)||Pavic A. (Cro) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_4OPYcYEn||Oliveira G. (Por)||Giron M. (Usa) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 22:30||g_2_rFOxchUh||Harrison C. (Usa)||Choinski J. (Ger) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 14:00||g_2_lxT4fvic||Seyboth Wild T. (Bra)||Villanueva G. (Arg) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 15:30||g_2_G2wPkG5S||Basso A. (Ita)||Boluda-Purkiss C. (Esp) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 15:30||g_2_IHKLjdjM||Etcheverry T. M. (Arg)||Lipovsek P. T. (Arg) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 15:30||g_2_p4MDhIL9||Olivo R. (Arg)||Casanova H. (Arg) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 17:00||g_2_OfLHixyG||Gonzalez A. (Col)||Galarza J. I. (Arg) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 17:00||g_2_zZvNVfEd||Menezes J. (Bra)||Muller A. (Fra) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 17:00||g_2_UXarwwMM||Souza J. (Bra)||Brown P. (Usa) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 18:30||g_2_xbanxcyT||Lama G. (Chi)||Gutierrez Oscar J. (Bra) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 18:30||g_2_v7oEXGqp||Sorgi J. P. (Bra)||Ornago F. (Ita) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 21:30||g_2_SSR8gb63||Ficovich J. P. (Arg)||Llanes F. (Uru) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 22:30||g_2_fF7Vuux4||Gomez E. (Ecu)||Durasovic V. (Nor) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||21/01/2019 23:00||g_2_js1vvJ6G||Diaz Acosta F. (Arg)||Barrios T. (Chi) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 10:30||g_2_hlz8aWX0||Janvier M. (Fra)||Galovic V. (Cro) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 10:30||g_2_pOWa1h3l||Milojevic N. (Srb)||Masur D. (Ger) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 12:00||g_2_E3OGcA2D||Bublik A. (Kaz)||Gaston H. (Fra) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 12:00||g_2_6XXe2Ymr||Moraing M. (Ger)||Otte O. (Ger) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 13:30||g_2_K0B2LDfK||Cornut-Chauvinc A. (Fra)||Barrere G. (Fra) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 13:30||g_2_QwjT6EuR||Karatsev A. (Rus)||Safiullin R. (Rus) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 15:00||g_2_nmiP7fQK||Gombos N. (Svk)||Taberner C. (Esp) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 16:00||g_2_hQiL8zBE||Furness E. (Fra)||Baldi F. (Ita) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 16:30||g_2_tACbMguE||Arnaboldi A. (Ita)||Gerasimov E. (Blr) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 17:50||g_2_zDPCbjm7||Guinard M. (Fra)||Kuzmanov D. (Bul) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 18:00||g_2_hzeZpXI7||De Bakker T. (Ned)||Rodionov J. (Aut) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||21/01/2019 19:20||g_2_2P07KX9Q||Hemery C. (Fra)||Ward J. (Gbr) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 18:00||g_2_KIr9sDU5||Loeb J. (Usa)||Rogowska O. (Aus) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 18:00||g_2_8vP33fiP||McHale C. (Usa)||Anderson R. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_b9sDtXqC||Jaksic J. (Srb)||Halbauer E. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_AmBVbEat||Manasse M. (Usa)||Cepede V. (Par) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 19:30||g_2_Ojk0qZag||Tan H. (Fra)||Gerlach K. (Ger) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_b5ZJ33o8||Brodsky G. (Usa)||Kiick A. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_t8k9yu38||Danilina A. (Kaz)||Hibi M. (Jpn) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_xdYN2N0E||Di Lorenzo F. (Usa)||Lu J. (Chn) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 21:00||g_2_hWtHuiaI||Lao D. (Usa)||Day K. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 22:30||g_2_2sl4rgFa||Rueffer L. (Ger)||Chang H. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||21/01/2019 22:30||g_2_6ZpLvBEO||Sebov K. (Can)||Giavara H. (Usa) 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||21/01/2019 22:30||g_2_j1PjNlrb||Carter H./Shibahara E.||Gibbs N./Lepchenko V. 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_ADlkn7uf||Alves M. (Bra)||Draxl L. (Can) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_YXfBgkmK||Binda A. (Rus)||Alvarez Varona N. (Esp) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_buOtLUte||Fearnley J. (Gbr)||Cavrak K. (Aus) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_2Xr6RW3R||Hijikata R. (Aus)||Khan Z. (Usa) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_8Aq2SClL||Lehecka J. (Cze)||Wendelken H. (Gbr) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_KlPxMARl||Musetti L. (Ita)||Nguyen P. V. (Vie) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_UuvwoI0H||Nava E. (Usa)||Darderi L. (Ita) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_MD9ysC3E||Rune H. (Den)||Yunchaokete B. (Chn) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_UJpbThZE||Bartone K. (Lat)||Gadecki O. (Aus) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_65RlJ8B7||Bencheikh L. (Fra)||Snigur D. (Ukr) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_WMkommQm||Martinez Cirez C. (Esp)||Sawangkaew M. (Tha) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_6urbpoA6||Nagy A. (Hun)||Frayman D. (Rus) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_SlqfoRf0||Navarro E. (Usa)||Sato H. (Jpn) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_02s2q5PC||Nugroho P. M. (Ina)||Ma L. (Usa) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_88lKB5np||Rogozinska Dzik S. (Pol)||Ryser V. (Sui) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||21/01/2019 23:00||g_2_hzmIktnn||Tauson C. (Den)||Wei S. (Chn) 
+tennis||BOYS - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 07:50||g_2_U5ZmqAL0||Azuma R./Matsushita R.||Han Seon Yong/Suksumrarn T. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 07:00||g_2_rBQG3y3p||Nugroho P. M./Wei S.||Naklo T./Sawangkaew M. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||21/01/2019 07:20||g_2_2iXgbtR4||Leonard M./Pigato L.||Frayman D./Rossi F. 
+tennis||ATP - SINGLES: ||Australian Open (Australia), hard||22/01/2019 01:30||g_2_EqdVoD31||Bautista-Agut R. (Esp)||Tsitsipas S. (Gre) 
+tennis||ATP - SINGLES: ||Australian Open (Australia), hard||22/01/2019 09:30||g_2_MFzVnvW4||Tiafoe F. (Usa)||Nadal R. (Esp) 
+tennis||WTA - SINGLES: ||Australian Open (Australia), hard||22/01/2019 03:30||g_2_GOndRuNA||Pavlyuchenkova A. (Rus)||Collins D. R. (Usa) 
+tennis||WTA - SINGLES: ||Australian Open (Australia), hard||22/01/2019 08:00||g_2_fsd7fVXD||Kvitova P. (Cze)||Barty A. (Aus) 
+tennis||WTA - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_Oj7andHQ||Osaka N. (Jpn)||Svitolina E. (Ukr) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 00:30||g_2_YaRwwhvD||Grills J. (Aus)||Safwat M. (Egy) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 00:30||g_2_h6y0Rfu1||Martinez P. (Esp)||Bourchier H. (Aus) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 00:30||g_2_2yJjlInE||Mousley B. (Aus)||Beale J. (Aus) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 02:00||g_2_ELP8PY9D||Doumbia S. (Fra)||Saville L. (Aus) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 02:00||g_2_l89Q0eWJ||Gaio F. (Ita)||Diez S. (Can) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 02:00||g_2_0CbRsGPs||Moroni M. (Ita)||Fanselow S. (Ger) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 03:30||g_2_fBgDzaIE||Napolitano S. (Ita)||Kuhn N. (Esp) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 03:30||g_2_lYhHZIXK||Purcell M. (Aus)||Ofner S. (Aut) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 06:30||g_2_CpPZ8hOt||Duckworth J. (Aus)||Polmans M. (Aus) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_f9Ev8Cwm||Banes M. (Aus)||Harris G. (Rsa) 
+tennis||CHALLENGER MEN - SINGLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_YaDr7Whg||Bega A. (Ita)||Clarke J. (Gbr) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_QctT79rB||Brown D. (Ger)||Arevalo M. (Sal) 
+tennis||CHALLENGER MEN - SINGLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_n7sP8kT4||Kwiatkowski T. S. (Usa)||Estrella V. (Dom) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_8IBZvaiA||Descotte M. F. (Arg)||Sakamoto P. (Bra) 
+tennis||CHALLENGER MEN - SINGLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_MVzJWzaj||Eriksson M. (Swe)||Varillas J. P. (Per) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_fuZH9Ge8||Barranco C. J. (Esp)||Kolar Z. (Cze) 
+tennis||CHALLENGER MEN - SINGLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_voW30CIf||Karlovskiy E. (Rus)||Molleker R. (Ger) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_WbsYu0g1||Ahn K. (Usa)||Radwanska U. (Pol) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_UTkdpFpm||Karatantcheva S. (Bul)||Davis L. (Usa) 
+tennis||CHALLENGER WOMEN - SINGLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_IgnhoeVt||Marino R. (Can)||Zarazua R. (Mex) 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 03:30||g_2_W8ACYmBf||Li Z./Soeda G.||Harris A./Santillan A. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 05:00||g_2_Sz4LWRu7||Basic M./Brkic T.||Martinez P./Mousley B. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 05:00||g_2_6R2PVoeD||Moriya H./Safwat M.||Nedunchezhiyan J./Verbeek S. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_fR7qujYQ||Banes M./Bourchier H.||Grills J./Vukic A. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_beC4zAtr||Behar A./Lopez-Perez E.||Diez S./Zhurbin A. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_xnB8ZTel||Draganja T./Yang T.||Harris G./Sela D. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_pCEGX7Q0||Fruttero J./Perez Sanz D.||Ratiwatana Sa./Ratiwatana So. 
+tennis||CHALLENGER MEN - DOUBLES: ||Burnie (Australia), hard||22/01/2019 23:00||g_2_Gz9utWIK||Purcell M./Saville L.||Polmans M./Reid M. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_jF4Pylci||Aragone J./Giron M.||Lorenzi P./Martinez L. D. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_nTIaLSCA||Arevalo M./Cerretani J.||Fritz T./McDonald M. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_fgM7J6sN||Arneodo R./Vasilevski A.||Lawson A./Polansky P. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_YqLBIQdT||Balaji N. S./Jung J.||Kwiatkowski T. S./Rubin N. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_xCGsD4Kj||Gonzales R./Pasha N.||Galloway R./Lammons N. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_QJH3KnSG||Kecmanovic M./King D.||Blanch U./Redlicki Mi. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_U53Tz8Cc||King E./Reese H.||Monroe N./Reyes-Varela M. 
+tennis||CHALLENGER MEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_vRcvEp5p||Oliveira G./Vavassori A.||Escobar G./Maytin R. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_Kbnhk4WE||Arguello F./Galdos S.||Llanes F./Troche E. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_QymljpH8||Brown P./Ornago F.||Marrero S. D./Monteiro T. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_U9JaqErd||Cacic N./Martin A.||Cuevas M./Dellien H. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_CYrpiQ12||Descotte M. F./Zukas M.||Kestelboim M./Souza J. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_bkodlOoL||Eriksson M./Romboli F.||Andreozzi G./Duran G. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_MqGiozEq||Gille S./Vliegen J.||Agamenone F./Bagnis F. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_80I3rYc2||Gonzalez A./Olivo R.||Basso A./Giannessi A. 
+tennis||CHALLENGER MEN - DOUBLES: ||Punta Del Este (Uruguay), clay||22/01/2019 15:00||g_2_0zFepfTk||Lipovsek P. T./Londero J. I.||Coppejans K./Serdarusic N. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_nBHCTAns||Arends S./Weissborn T-S.||Cornut-Chauvinc A./Paire B. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_MT9PQ8Wa||Barranco C. J./Brancaccio R.||Neis F./Raja P. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_fJPpYjvQ||Eysseric J./Halys Q.||Janvier M./Kuzmanov D. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_Q1GGSU1m||Furness E./Guinard M.||Junaid R./Shamasdin A. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_GSQtZWOJ||Hsieh C./Rungkat C.||Melzer J./Polasek F. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_8Q5LRlHg||Jacq G./Voljacques H.||Auger-Aliassime F./Ocleppo J. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_Gj9TPSo6||Margaroli L./Vega Hernandez D.||Moutet C./Stakhovsky S. 
+tennis||CHALLENGER MEN - DOUBLES: ||Rennes (France), hard (indoor)||22/01/2019 09:00||g_2_fs8XOn1C||Pel D./Sancic A.||Martin F./Nys H. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_dvQnOUSi||Brodsky G./Di Lorenzo F.||Danilina A./Neel I. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_IeL70Rzo||Gleason Q./Stefani L.||Brengle M./Teichmann J. B. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_8MVX6TcH||Guarachi A./Olmos G.||Marchetti G./Zarazua R. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_MPZy6mDN||Manasse M./Pegula J.||Ahn K./Routliffe E. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_44TfM8c4||Marand S./Webley-Smith E.||Santamaria S./Savinykh V. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_ImRrPADo||McHale C./Van der Hoek R.||Cako J./Davis L. 
+tennis||CHALLENGER WOMEN - DOUBLES: ||Newport Beach (USA), hard||22/01/2019 18:00||g_2_GnZu57ST||Townsend T./Wickmayer Y.||Loeb J./Peterson R. 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_KGBj5AN5||Kodat T. A. (Usa)||Jianu F. C. (Rou) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_vwSZwYO6||Svrcina D. (Cze)||Kingsley C. (Usa) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_n3VsxCgJ||Virtanen O. (Fin)||Weststrate L. (Ned) 
+tennis||BOYS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_tSHfmx2K||Zeppieri G. (Ita)||Forejtek J. (Cze) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_MLqQlkwP||Allen V. (Gbr)||Tikhonova A. (Rus) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_8IZmUder||Leonard M. (Fra)||Pepelyaeva V. (Rus) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_tWXeSzQf||Pigato L. (Ita)||Fernandez L. A. (Can) 
+tennis||GIRLS - SINGLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_YPdZufff||Sun L. (Sui)||Rossi F. (Ita) 
+tennis||BOYS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_hfBa2JVi||Forejtek J./Svrcina D.||Klopper J./Montsi K. 
+tennis||BOYS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_zsqihZ7p||Kalender A./Mayot H.||Boyer T./Zink T. 
+tennis||BOYS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_GWITOXrM||Royer V./Rune H.||Schoolkate T./Sweeny D. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_Sb8UaFoQ||Allen V./Martins D.||Kawaguchi N./Nagy A. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_UZMXNibS||Bencheikh L./Curmi F.||Krupenina M./Snigur D. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_tQCn6j8a||Kawamura M./Kozaki F.||Beck C./Navarro E. 
+tennis||GIRLS - DOUBLES: ||Australian Open (Australia), hard||22/01/2019 23:00||g_2_zPX7DYFP||Nahimana S./Uchijima M.||Hennemann C. W./Ryser V. 

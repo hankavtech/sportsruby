@@ -1,0 +1,114 @@
+hockey||BELARUS: ||Extraleague||21/01/2019 16:00||g_4_GdtuDEN5||Bobruisk||Belarus U18 
+hockey||CZECH REPUBLIC: ||Chance Liga||21/01/2019 16:30||g_4_tOsAt2w8||Ceske Budejovice||Litomerice 
+hockey||HUNGARY: ||Erste Liga||21/01/2019 16:30||g_4_QFmMzeST||Brasov||Csikszereda 
+hockey||HUNGARY: ||Erste Liga||21/01/2019 17:00||g_4_QZV4tabh||DEAC||Gyergyoi 
+hockey||KAZAKHSTAN: ||Championship||21/01/2019 09:00||g_4_tKHlNeBq||Kazzinc-Torpedo 2||HC Astana 
+hockey||KAZAKHSTAN: ||Championship||21/01/2019 13:00||g_4_KAGhMFQk||Almaty||Pavlodar 
+hockey||KAZAKHSTAN: ||Championship||21/01/2019 13:00||g_4_SzK0Kge2||Beibarys Atyrau||Nomad Astana 
+hockey||KAZAKHSTAN: ||Championship||21/01/2019 13:00||g_4_W8psToa2||Kulager||Kokshetau 
+hockey||KAZAKHSTAN: ||Championship||21/01/2019 13:00||g_4_lpLdLZud||Temirtau||Gornyak Rudny 
+hockey||RUSSIA: ||KHL||21/01/2019 16:30||g_4_KQUqPgQf||Dyn. Moscow||Cherepovets 
+hockey||RUSSIA: ||KHL||21/01/2019 16:30||g_4_W46JxSCp||Jokerit||Niznekamsk 
+hockey||RUSSIA: ||KHL||21/01/2019 16:30||g_4_2kzuQZAl||Sp. Moscow||Nizhny Novgorod 
+hockey||RUSSIA: ||VHL||21/01/2019 10:30||g_4_fw4bTCM3||Tseng Tou||Tambov 
+hockey||RUSSIA: ||VHL||21/01/2019 11:30||g_4_YT22SWyA||Heilongjiang||Sarov 
+hockey||RUSSIA: ||VHL||21/01/2019 12:30||g_4_Ghh7RjiG||Kazzinc-Torpedo||HC Yugra 
+hockey||RUSSIA: ||VHL||21/01/2019 13:00||g_4_SSeBQA6M||Karaganda||Tyumen 
+hockey||RUSSIA: ||VHL||21/01/2019 14:00||g_4_dlDPFvzE||Perm||Metallurg Novokuznetsk 
+hockey||RUSSIA: ||VHL||21/01/2019 15:00||g_4_zuCTEbkK||Izhevsk||Krasnoyarsk 
+hockey||RUSSIA: ||VHL||21/01/2019 15:30||g_4_6N2a9xDs||Almetyevsk||Yermak Angarsk 
+hockey||RUSSIA: ||VHL||21/01/2019 15:30||g_4_U1BXDI4Q||Khimik||Dinamo St. Petersburg 
+hockey||RUSSIA: ||VHL||21/01/2019 16:00||g_4_lnh48dSm||Zvezda Chekhov||SKA Neva St. Petersburg 
+hockey||RUSSIA: ||MHL||21/01/2019 11:00||g_4_jalN5Uvf||Omskie Yastreby||Ladya 
+hockey||RUSSIA: ||MHL||21/01/2019 12:00||g_4_0EsjDCnK||Stalnye Lisy||Sibirskie Snaipery 
+hockey||RUSSIA: ||MHL||21/01/2019 13:00||g_4_YNwS4lf0||Belye Medvedi||Irbis 
+hockey||RUSSIA: ||MHL||21/01/2019 14:00||g_4_rZpF7jAs||Mamonty Yugry||Reaktor 
+hockey||RUSSIA: ||MHL||21/01/2019 14:00||g_4_tQbmCW1Q||Sarmaty||Kuznetskie Medvedi 
+hockey||RUSSIA: ||MHL||21/01/2019 14:00||g_4_xdpJ6APm||Tyumensky Legion||Sputnik Almetievsk 
+hockey||RUSSIA: ||VHL-B - Second stage||21/01/2019 13:30||g_4_zqdK8lQC||Yuzhny Ural Metallurg||Krasnoyarskie Rysi 
+hockey||RUSSIA: ||VHL-B - Second stage||21/01/2019 15:30||g_4_pf37Bjtf||Cheboksary||Chelny 
+hockey||RUSSIA: ||VHL-B - Second stage||21/01/2019 15:30||g_4_xUaaDCBs||Mordovia||Altay Barnaul 
+hockey||RUSSIA: ||VHL-B - Second stage||21/01/2019 16:30||g_4_Wja3CWQm||HC Rostov||Junior Kurgan 
+hockey||SWEDEN: ||HockeyAllsvenskan||21/01/2019 18:00||g_4_GpltYFo1||Pantern||Leksands 
+hockey||SWEDEN: ||SDHL Women||21/01/2019 18:00||g_4_0UJihRhU||HV 71 W||Linkopings W 
+hockey||USA: ||NHL||21/01/2019 20:00||g_4_OKUk2zFk||Colorado Avalanche||Nashville Predators 
+hockey||USA: ||NHL||21/01/2019 21:00||g_4_IsUg1fUe||Los Angeles Kings||St. Louis Blues 
+hockey||USA: ||NHL||21/01/2019 23:00||g_4_WpYc0Eq2||Vegas Golden Knights||Minnesota Wild 
+hockey||USA: ||AHL||21/01/2019 18:00||g_4_l2QZO5p9||Bridgeport Sound Tigers||Hershey Bears 
+hockey||USA: ||AHL||21/01/2019 18:00||g_4_xQsC5Hql||Iowa Wild||Rockford IceHogs 
+hockey||USA: ||AHL||21/01/2019 18:00||g_4_l0oG4yaf||Syracuse Crunch||Binghamton 
+hockey||USA: ||AHL||21/01/2019 18:05||g_4_WOzL3eE0||Springfield Thunderbirds||Laval Rocket 
+hockey||USA: ||AHL||21/01/2019 18:05||g_4_AFZO2FT6||Wilkes-Barre/Scranton||Lehigh Valley Phantoms 
+hockey||USA: ||AHL||21/01/2019 20:05||g_4_6wLvOPaF||Providence Bruins||Hartford Wolf Pack 
+hockey||USA: ||AHL||21/01/2019 21:00||g_4_vkvT1ZrD||Stockton Heat||Colorado Eagles 
+hockey||USA: ||AHL||21/01/2019 23:00||g_4_IuwX0gbJ||Ontario Reign||San Diego Gulls 
+hockey||USA: ||AHL||21/01/2019 23:05||g_4_MD3D9o2J||Tucson Roadrunners||Texas Stars 
+hockey||USA: ||ECHL||21/01/2019 17:35||g_4_M7GSLzZA||Atlanta Gladiators||Jacksonville IceMen 
+hockey||USA: ||ECHL||21/01/2019 20:00||g_4_4W5XKflH||Utah Grizzlies||Idaho 
+hockey||USA: ||SPHL||21/01/2019 18:05||g_4_xtYRLC3Q||Roanoke Dawgs||Knoxville Ice Bears 
+hockey||USA: ||SPHL||21/01/2019 19:00||g_4_CQ8GQUcF||Birmingham Bulls||Huntsville Havoc 
+hockey||ASIA: ||Asia League||22/01/2019 10:00||g_4_z93m3sFG||Daemyung||Tohoku Free Blades 
+hockey||AUSTRIA: ||EBEL||22/01/2019 18:15||g_4_8tSkO0k7||Medvescak Zagreb||Salzburg 
+hockey||BELARUS: ||Extraleague||22/01/2019 16:00||g_4_bLVqCYxC||Brest||Baranavichy 
+hockey||BELARUS: ||Extraleague||22/01/2019 16:00||g_4_0Q5C9JUd||Molodechno||Belarus U20 
+hockey||BELARUS: ||Extraleague||22/01/2019 16:00||g_4_8WIQoGxj||Neman Grodno||Lida 
+hockey||BELARUS: ||Extraleague||22/01/2019 16:00||g_4_jeOLndNq||Yunost Minsk||Soligorsk 
+hockey||BELARUS: ||Extraleague||22/01/2019 16:00||g_4_nNHUpzhd||Zhlobin||Gomel 
+hockey||CZECH REPUBLIC: ||Extraliga||22/01/2019 16:30||g_4_YsInyA2I||Plzen||Chomutov 
+hockey||CZECH REPUBLIC: ||Extraliga||22/01/2019 17:00||g_4_8C0epTcM||Liberec||Trinec 
+hockey||CZECH REPUBLIC: ||Extraliga||22/01/2019 17:30||g_4_vZ1LB2hj||Sparta Prague||Kometa Brno 
+hockey||DENMARK: ||Metal Ligaen||22/01/2019 18:00||g_4_42lQGQcD||Aalborg||Odense Bulldogs 
+hockey||DENMARK: ||Metal Ligaen||22/01/2019 18:00||g_4_EXVGwl5Q||Esbjerg||Herlev 
+hockey||FINLAND: ||Liiga||22/01/2019 16:30||g_4_W8z91fMe||Tappara||KalPa 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:00||g_4_nBkBvr5I||Grenoble||Strasbourg 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:00||g_4_Q1lFw2KO||Mulhouse||Chamonix Mont-Blanc 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:00||g_4_Eqx4t4z6||Nice||Angers 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:30||g_4_4A2KlSSP||Anglet||Rouen 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:30||g_4_hzy8uOkC||Gap||Amiens 
+hockey||FRANCE: ||Ligue Magnus||22/01/2019 19:30||g_4_IHrerQ5g||Lyon||Bordeaux 
+hockey||GERMANY: ||DEL2||22/01/2019 18:30||g_4_tpkpg9B9||Dresdner Eislowen||Bad Nauheim 
+hockey||GERMANY: ||DEL2||22/01/2019 18:30||g_4_CAptfkd3||Kassel||Frankfurt Lowen 
+hockey||GERMANY: ||DEL2||22/01/2019 18:30||g_4_YJoxeVtc||Kaufbeuren||Bietigheim/Bissingen 
+hockey||GERMANY: ||DEL2||22/01/2019 19:00||g_4_KzllhTQF||Bayreuth||Heilbronner 
+hockey||GERMANY: ||DEL2||22/01/2019 19:00||g_4_Ey6MZKAl||Crimmitschau||Tolzer Lowen 
+hockey||GERMANY: ||DEL2||22/01/2019 19:00||g_4_0Y1Iz1er||Deggendorfer||Lausitzer Fuchse 
+hockey||HUNGARY: ||Hungarian Cup - Play Offs||22/01/2019 17:00||g_4_hGMcDglN||DVTK||Ferencvaros 
+hockey||HUNGARY: ||Hungarian Cup - Play Offs||22/01/2019 17:00||g_4_bgNgEZYG||Fehervar AV19||MAC Ujbuda 
+hockey||KAZAKHSTAN: ||Championship||22/01/2019 13:00||g_4_MZzISHmM||Almaty||Pavlodar 
+hockey||KAZAKHSTAN: ||Championship||22/01/2019 13:00||g_4_lMxAUwJ9||Beibarys Atyrau||Nomad Astana 
+hockey||KAZAKHSTAN: ||Championship||22/01/2019 13:00||g_4_baOT08bC||Kazzinc-Torpedo 2||HC Astana 
+hockey||KAZAKHSTAN: ||Championship||22/01/2019 13:00||g_4_SCyETcYF||Kulager||Kokshetau 
+hockey||KAZAKHSTAN: ||Championship||22/01/2019 13:00||g_4_zwuMRy3S||Temirtau||Gornyak Rudny 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 17:30||g_4_2qHEE829||Gdansk||Unia Oswiecim 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 17:30||g_4_Ob5NCnXL||Opole||Bytom 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 17:30||g_4_xAcXy8Pg||Opole||Katowice 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 17:30||g_4_tzGIDSHF||Torun||Jastrzebie 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 17:30||g_4_fJHAFlm3||Tychy||MMKS Podhale 
+hockey||POLAND: ||Polish Hockey League||22/01/2019 18:00||g_4_x29RB6nS||Zaglebie Sosnowiec||Krakow 
+hockey||RUSSIA: ||KHL||22/01/2019 09:00||g_4_hvTiNXf7||Amur Khabarovsk||Sibir Novosibirsk 
+hockey||RUSSIA: ||KHL||22/01/2019 09:00||g_4_bHTmODu1||Vladivostok||Avangard Omsk 
+hockey||RUSSIA: ||KHL||22/01/2019 11:30||g_4_Ae5NynSj||Kunlun||Salavat Ufa 
+hockey||RUSSIA: ||KHL||22/01/2019 14:00||g_4_C0q60V4i||Metallurg Magnitogorsk||Barys Astana 
+hockey||RUSSIA: ||KHL||22/01/2019 14:00||g_4_6sXeMiAD||Yekaterinburg||Tractor Chelyabinsk 
+hockey||RUSSIA: ||KHL||22/01/2019 16:30||g_4_8nBvoymE||Lokomotiv Yaroslavl||CSKA Moscow 
+hockey||RUSSIA: ||KHL||22/01/2019 16:30||g_4_Ao29akKc||SKA St. Petersburg||Din. Minsk 
+hockey||RUSSIA: ||KHL||22/01/2019 17:30||g_4_481Db9Z3||Dinamo Riga||Slovan Bratislava 
+hockey||RUSSIA: ||VHL||22/01/2019 13:30||g_4_z3jC6zc0||Gornyak Uchaly||Kurhan 
+hockey||RUSSIA: ||VHL||22/01/2019 13:30||g_4_Sxi87Gsf||Orsk||Chelmet Chelyabinsk 
+hockey||RUSSIA: ||VHL-B - Second stage||22/01/2019 16:30||g_4_69iG9UA6||HC Rostov||Junior Kurgan 
+hockey||RUSSIA: ||WHL Women||22/01/2019 15:00||g_4_vuRfE1EA||Nizhny Novgorod W||Ufa W 
+hockey||SLOVAKIA: ||1. Liga||22/01/2019 17:00||g_4_O0SPDMPK||Topolcany||Dubnica 
+hockey||SWEDEN: ||SHL||22/01/2019 18:00||g_4_EZU6gZ06||Malmo||Djurgardens 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_p4nhujBs||Ambri-Piotta||Davos 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_QJ5LpCmK||Biel||Lugano 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_vRodvAQm||Fribourg||Zurich 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_zgu5xle0||Langnau Tigers||Rapperswil 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_IHp0wUuf||Lausanne||Bern 
+hockey||SWITZERLAND: ||National League||22/01/2019 18:45||g_4_8reQqW2Q||Zug||Servette 
+hockey||SWITZERLAND: ||Swiss League||22/01/2019 18:45||g_4_SrvfMMhn||Visp||Winterthur 
+hockey||SWITZERLAND: ||Swiss League||22/01/2019 19:00||g_4_M5wbLt8h||GCK Lions||Olten 
+hockey||SWITZERLAND: ||Swiss League||22/01/2019 19:00||g_4_t8gaJKx5||Thurgau||Langenthal 
+hockey||SWITZERLAND: ||Swiss League||22/01/2019 19:00||g_4_0dx2K0Nb||Ticino Rockets||Ajoie 
+hockey||USA: ||NHL||22/01/2019 00:00||g_4_YkCtPcM2||Florida Panthers||San Jose Sharks 
+hockey||USA: ||AHL||22/01/2019 03:00||g_4_zH7H85HP||San Jose Barracuda||Bakersfield Condors 
+hockey||WORLD: ||Friendly International||22/01/2019 16:00||g_4_f7wwVfsB||Czech Republic U16||Slovakia U16 

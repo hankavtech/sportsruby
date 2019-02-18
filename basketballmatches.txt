@@ -1,0 +1,13 @@
+basketball||CANADA: ||NBL||18/02/2019 19:00||g_3_Qo2ikKSe||KW Titans||Sudbury 
+basketball||BRAZIL: ||NBB||19/02/2019 22:00||g_3_jJrlTEnT||Joinville||Botafogo 
+basketball||EUROPE: ||Latvia-Estonian League||19/02/2019 17:00||g_3_QoIgEHKL||BK Liepaja||Valmiera Glass Via 
+basketball||EUROPE: ||WABA League Women||19/02/2019 16:30||g_3_IBVKhi6H||Crvena zvezda W||Triglav W 
+basketball||EUROPE: ||WBBL Women - Losers stage||19/02/2019 15:30||g_3_YJyXMs2P||G4S Noorteliiga W||Tartu University/Kalev W 
+basketball||EUROPE: ||WBBL Women - Losers stage||19/02/2019 16:30||g_3_lvvlZjjd||TTT Riga 2 W||Daugavpils W 
+basketball||ITALY: ||A2 West||19/02/2019 17:00||g_3_ChJ0Dyka||Virtus Roma||Capo d'Orlando 
+basketball||SERBIA: ||First League||19/02/2019 17:00||g_3_Iqyzd76d||KK Metalac||Vojvodina Novi Sad 
+basketball||SERBIA: ||First League||19/02/2019 17:00||g_3_pjTLJAb3||Mladost Admiral||KK Dynamic 
+basketball||SERBIA: ||First League||19/02/2019 17:00||g_3_EVKxGScS||Sloboda||Tamis Petrohemija 
+basketball||SERBIA: ||First League||19/02/2019 17:00||g_3_SEIQIUD9||Vrsac||OKK Novi Pazar 
+basketball||SERBIA: ||First League||19/02/2019 17:00||g_3_zuMYG8rM||Zlatibor Cajetina||KK Dunav 
+basketball||SERBIA: ||First League||19/02/2019 18:00||g_3_65HUHlTF||Subotica||Beovuk 

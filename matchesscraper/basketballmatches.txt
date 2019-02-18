@@ -1,0 +1,75 @@
+basketball||AUSTRALIA: ||NBL||21/01/2019 08:50||g_3_4lch8kIH||Cairns||New Zealand Breakers 
+basketball||BRAZIL: ||NBB||21/01/2019 22:00||g_3_tnWsRn57||Mogi||Minas 
+basketball||CYPRUS: ||Division A||21/01/2019 17:00||g_3_OfJ4Ao8h||Apollon||Apoel BC 
+basketball||CZECH REPUBLIC: ||Czech Cup||21/01/2019 16:00||g_3_MoqroRB0||Opava||Hradec Kralove 
+basketball||EUROPE: ||ABA League||21/01/2019 17:00||g_3_IgIVRwtB||Buducnost||Cedevita 
+basketball||EUROPE: ||WBBL Women - Winners stage||21/01/2019 12:00||g_3_2msH7GIM||Tallinn University W||Kibirkstis Vilnius W 
+basketball||FRANCE: ||LNB||21/01/2019 19:45||g_3_YoI8FxpU||Boulazac||Chalons-Reims 
+basketball||GREECE: ||Basket League||21/01/2019 13:30||g_3_C0BAeIKH||Ifaistos Limnou||Panathinaikos 
+basketball||ISRAEL: ||Super League||21/01/2019 18:15||g_3_fV13XaTf||Bnei Herzliya||Hapoel Eilat 
+basketball||ISRAEL: ||Super League||21/01/2019 18:30||g_3_2e5BVwb7||Maccabi Rishon||Maccabi Ashdod 
+basketball||POLAND: ||Energa Basket Liga||21/01/2019 17:30||g_3_nXnZ8h55||Koszalin||Zielona Gora 
+basketball||SLOVENIA: ||Liga Nova KBM||21/01/2019 18:00||g_3_WYefShwR||Petrol Olimpija||Sencur 
+basketball||SOUTH KOREA: ||WKBL Women||21/01/2019 10:00||g_3_nR57ftg7||Woori Wibee W||KB Stars W 
+basketball||USA: ||NBA||21/01/2019 17:30||g_3_Cx1J7nwR||New York Knicks||Oklahoma City Thunder 
+basketball||USA: ||NBA||21/01/2019 18:00||g_3_IJwn36or||Cleveland Cavaliers||Chicago Bulls 
+basketball||USA: ||NBA||21/01/2019 19:00||g_3_dAxj2Q0l||Milwaukee Bucks||Dallas Mavericks 
+basketball||USA: ||NBA||21/01/2019 19:00||g_3_4zxf1pGf||Washington Wizards||Detroit Pistons 
+basketball||USA: ||NBA||21/01/2019 20:00||g_3_rRzb04V0||Atlanta Hawks||Orlando Magic 
+basketball||USA: ||NBA||21/01/2019 20:30||g_3_QkQ2aOp7||Brooklyn Nets||Sacramento Kings 
+basketball||USA: ||NBA||21/01/2019 22:30||g_3_vgU6br0D||Memphis Grizzlies||New Orleans Pelicans 
+basketball||USA: ||NBA||21/01/2019 23:00||g_3_hdIlNRxE||Boston Celtics||Miami Heat 
+basketball||USA: ||NBA G League||21/01/2019 19:00||g_3_pYwJxjXn||Greensboro Swarm||Canton Charge 
+basketball||USA: ||NBA G League||21/01/2019 20:00||g_3_rJdMyAng||Long Island Nets||Raptors 905 
+basketball||USA: ||NBA G League||21/01/2019 20:00||g_3_QsnRzU1a||Windy City Bulls||Westchester 
+basketball||USA: ||NBA G League||21/01/2019 21:00||g_3_4YpVZmH5||Texas Legends||Iowa Wolves 
+basketball||ARGENTINA: ||Liga A||22/01/2019 00:00||g_3_l0DrzQ64||Penarol||Gimnasia 
+basketball||ARGENTINA: ||Liga A||22/01/2019 00:00||g_3_xQ9vy6ib||Weber Bahia||Instituto de Cordoba 
+basketball||ARGENTINA: ||Liga A||22/01/2019 01:00||g_3_rNCnZqMA||Olimpico||Estudiantes 
+basketball||BELARUS: ||Premier League||22/01/2019 15:30||g_3_C6MZbhGU||SDUSHOR Minsk||Rubon 
+basketball||BELARUS: ||Premier League||22/01/2019 16:00||g_3_YFNVaY0O||Tsmoki Minsk 3||Prinemanye 
+basketball||BRAZIL: ||NBB||22/01/2019 21:00||g_3_hQe092kt||Bauru||Brasilia 
+basketball||BRAZIL: ||NBB||22/01/2019 22:00||g_3_G0YWQUKD||Botafogo||Cearense 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_p0CBTolE||Liaoning||Xinjiang 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_dzGFS53K||Qingdao||Sichuan 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_jcFJRPIQ||Shanghai||Shandong 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_h61oNqRs||Shanxi Zhongyu||Zhejiang Chouzhou 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_AsdjM3tl||Shenzhen||Jiangsu Dragons 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_lYffLNef||Tianjin||Guangdong 
+basketball||CHINA: ||CBA||22/01/2019 11:35||g_3_reYS42BD||Zhejiang Guangsha||Jilin 
+basketball||EUROPE: ||Latvia-Estonian League||22/01/2019 16:30||g_3_K2MS7Fck||Rapla||VEF Riga 
+basketball||EUROPE: ||Eurocup - Top 16||22/01/2019 18:00||g_3_YR7CgiZH||Monaco||Partizan 
+basketball||EUROPE: ||Eurocup - Top 16||22/01/2019 19:00||g_3_tYUwACJb||Alba Berlin||Rytas 
+basketball||EUROPE: ||Eurocup - Top 16||22/01/2019 20:00||g_3_UHkHNVmb||Lyon-Villeurbanne||Frankfurt 
+basketball||EUROPE: ||Champions League||22/01/2019 17:00||g_3_h6uz9YRm||Banvit||Avellino 
+basketball||EUROPE: ||Champions League||22/01/2019 17:30||g_3_C64GunLF||Nymburk||Hapoel M. Jerusalem 
+basketball||EUROPE: ||Champions League||22/01/2019 17:30||g_3_YyaibiXB||Promitheas||Strasbourg 
+basketball||EUROPE: ||Champions League||22/01/2019 19:00||g_3_zkVx2QE3||Ludwigsburg||Ventspils 
+basketball||EUROPE: ||Champions League||22/01/2019 19:30||g_3_lhZt1pU9||Le Mans||Nizhny Novgorod 
+basketball||EUROPE: ||Champions League||22/01/2019 19:30||g_3_Wdvv8hsf||Murcia||Anwil Wloclawek 
+basketball||EUROPE: ||Champions League||22/01/2019 19:30||g_3_CScecBnI||Oostende||Bayreuth 
+basketball||EUROPE: ||Champions League||22/01/2019 19:30||g_3_vJizkYy8||Venezia||Bonn 
+basketball||EUROPE: ||FIBA Europe Cup - Second stage||22/01/2019 17:00||g_3_6DaxLPQJ||Alba Fehervar||Balkan 
+basketball||EUROPE: ||BIBL||22/01/2019 16:30||g_3_AT4iuYWH||Academic Bultex||Bashkimi 
+basketball||EUROPE: ||BIBL||22/01/2019 16:30||g_3_feLK0naf||Beroe||Blokotehna 
+basketball||EUROPE: ||Alpe Adria Cup - Play Offs||22/01/2019 17:00||g_3_KSNIFNtF||USK Prague||Kormend 
+basketball||EUROPE: ||WBBL Women - Losers stage||22/01/2019 16:30||g_3_nVybsfRI||TTT Riga 2 W||G4S Noorteliiga W 
+basketball||FINLAND: ||Korisliiga||22/01/2019 16:30||g_3_MVAhoqq5||KTP Kotka Basket||Ura Basket 
+basketball||FRANCE: ||French Cup||22/01/2019 19:00||g_3_CGaTjpSh||Ada Blois||Rouen 
+basketball||FRANCE: ||French Cup||22/01/2019 19:00||g_3_YP0PiQCn||Sorgues||Nancy 
+basketball||FRANCE: ||French Cup||22/01/2019 19:00||g_3_nm7ulrCB||Souffelweyersheim||Aix Maurienne 
+basketball||FRANCE: ||French Cup||22/01/2019 19:00||g_3_hQ7ykOd5||Vichy-Clermont||Caen 
+basketball||FRANCE: ||French Cup||22/01/2019 19:30||g_3_Qw6qm2RH||Challans||Gries Oberhoffen 
+basketball||GERMANY: ||BBL||22/01/2019 19:30||g_3_rwyCffq4||Gottingen||Bayern 
+basketball||SPAIN: ||LEB Oro||22/01/2019 19:30||g_3_rwwqg6HJ||Araberri||Valladolid 
+basketball||SPAIN: ||LEB Oro||22/01/2019 19:45||g_3_MTymhQWP||Leyma Coruna||Real Betis 
+basketball||SPAIN: ||LEB Oro||22/01/2019 20:15||g_3_hCSIn4fm||Barcelona B||Palencia 
+basketball||SWEDEN: ||Basketligan||22/01/2019 18:04||g_3_COgiah0U||Koping Stars||Jamtland 
+basketball||SWEDEN: ||Basketligan||22/01/2019 18:04||g_3_0z1gJeon||Nassjo||Umea 
+basketball||SWEDEN: ||Basketligan||22/01/2019 18:04||g_3_Mq2kKyWu||Norrkoping||Sodertalje 
+basketball||SWEDEN: ||Basketligan||22/01/2019 18:04||g_3_fc0cIF0h||Uppsala||Wetterbygden Stars 
+basketball||USA: ||NBA||22/01/2019 01:00||g_3_WnHhMohK||Philadelphia 76ers||Houston Rockets 
+basketball||USA: ||NBA||22/01/2019 02:00||g_3_lOBcL57Q||Utah Jazz||Portland Trail Blazers 
+basketball||USA: ||NBA||22/01/2019 03:30||g_3_jXcPGPFs||Los Angeles Lakers||Golden State Warriors 
+basketball||USA: ||NBA G League||22/01/2019 00:00||g_3_Y7kZY7WB||Grand Rapids Drive||Capital City Go-Go 
+basketball||USA: ||NBA G League||22/01/2019 18:00||g_3_CblwYRoI||Northern Arizona Suns||Salt Lake City Stars 
